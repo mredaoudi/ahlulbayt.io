@@ -1,0 +1,25 @@
+{
+  "ar": "الكوثر",
+  "en": "Abundance",
+  "_a": "Al-Kawthar",
+  "_l": "Meccan",
+  "_v": [
+    {
+      "ar": "إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+      "en": "Indeed We have given you abundance.",
+      "_n": 1
+    },
+    {
+      "ar": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+      "en": "So pray to your Lord, and sacrifice [the sacrificial camel].",
+      "_n": 2
+    },
+    {
+      "ar": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+      "en": "Indeed it is your enemy who is without posterity.",
+      "_n": 3
+    }
+  ],
+  "_n": 108,
+  "_c": 3
+}

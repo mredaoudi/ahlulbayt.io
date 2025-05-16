@@ -1,5 +1,5 @@
-export const load = async ({ params }) => {
-    const res = await fetch(`http://localhost:8080/quran/${params.surah}`);
+export const load = async ({ params, fetch }) => {
+    const res = await fetch(`/quran/surahs/${params.surah}.json`);
     const data = await res.json();
     return {
       surah: data,

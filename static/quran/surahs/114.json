@@ -1,0 +1,40 @@
+{
+  "ar": "الناس",
+  "en": "Mankind",
+  "_a": "An-Naas",
+  "_l": "Meccan",
+  "_v": [
+    {
+      "ar": "قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "en": "Say, ‘I seek the protection of the Lord of humans,",
+      "_n": 1
+    },
+    {
+      "ar": "مَلِكِ ٱلنَّاسِ",
+      "en": "Sovereign of humans,",
+      "_n": 2
+    },
+    {
+      "ar": "إِلَـٰهِ ٱلنَّاسِ",
+      "en": "God of humans,",
+      "_n": 3
+    },
+    {
+      "ar": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+      "en": "from the evil of the sneaky tempter",
+      "_n": 4
+    },
+    {
+      "ar": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+      "en": "who puts temptations into the breasts of humans,",
+      "_n": 5
+    },
+    {
+      "ar": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+      "en": "from among the jinn and humans.’",
+      "_n": 6
+    }
+  ],
+  "_n": 114,
+  "_c": 6
+}

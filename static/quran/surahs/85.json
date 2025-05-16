@@ -1,0 +1,120 @@
+{
+  "ar": "البروج",
+  "en": "The Constellations",
+  "_a": "Al-Burooj",
+  "_l": "Meccan",
+  "_v": [
+    {
+      "ar": "وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ",
+      "en": "By the heaven with its Houses,",
+      "_n": 1
+    },
+    {
+      "ar": "وَٱلْيَوْمِ ٱلْمَوْعُودِ",
+      "en": "by the Promised Day,",
+      "_n": 2
+    },
+    {
+      "ar": "وَشَاهِدٍ وَمَشْهُودٍ",
+      "en": "by the Witness and the Witnessed:",
+      "_n": 3
+    },
+    {
+      "ar": "قُتِلَ أَصْحَـٰبُ ٱلْأُخْدُودِ",
+      "en": "perish the People of the Ditch!",
+      "_n": 4
+    },
+    {
+      "ar": "ٱلنَّارِ ذَاتِ ٱلْوَقُودِ",
+      "en": "The fire abounding in fuel,",
+      "_n": 5
+    },
+    {
+      "ar": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
+      "en": "above which they sat",
+      "_n": 6
+    },
+    {
+      "ar": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِٱلْمُؤْمِنِينَ شُهُودٌ",
+      "en": "as they were themselves witnesses to what they did to the faithful.",
+      "_n": 7
+    },
+    {
+      "ar": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+      "en": "They were vindictive towards them only because they had faith in Allah, the All-mighty and the All-laudable,",
+      "_n": 8
+    },
+    {
+      "ar": "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+      "en": "to whom belongs the kingdom of the heavens and the earth, and Allah is witness to all things.",
+      "_n": 9
+    },
+    {
+      "ar": "إِنَّ ٱلَّذِينَ فَتَنُوا۟ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ثُمَّ لَمْ يَتُوبُوا۟ فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ ٱلْحَرِيقِ",
+      "en": "Indeed those who persecute the faithful, men and women, and do not repent thereafter, there is the punishment of hell for them and the punishment of burning.",
+      "_n": 10
+    },
+    {
+      "ar": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ",
+      "en": "Indeed those who have faith and do righteous deeds—for them will be gardens with streams running in them. That is the supreme success.",
+      "_n": 11
+    },
+    {
+      "ar": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ",
+      "en": "Indeed your Lord’s striking is severe.",
+      "_n": 12
+    },
+    {
+      "ar": "إِنَّهُۥ هُوَ يُبْدِئُ وَيُعِيدُ",
+      "en": "It is indeed He who originates and brings back,",
+      "_n": 13
+    },
+    {
+      "ar": "وَهُوَ ٱلْغَفُورُ ٱلْوَدُودُ",
+      "en": "and He is the All-forgiving, the All-affectionate,",
+      "_n": 14
+    },
+    {
+      "ar": "ذُو ٱلْعَرْشِ ٱلْمَجِيدُ",
+      "en": "Lord of the Throne, the All-glorious,",
+      "_n": 15
+    },
+    {
+      "ar": "فَعَّالٌ لِّمَا يُرِيدُ",
+      "en": "doer of what He desires.",
+      "_n": 16
+    },
+    {
+      "ar": "هَلْ أَتَىٰكَ حَدِيثُ ٱلْجُنُودِ",
+      "en": "Did you receive the story of the hosts",
+      "_n": 17
+    },
+    {
+      "ar": "فِرْعَوْنَ وَثَمُودَ",
+      "en": "of Pharaoh and Thamud?",
+      "_n": 18
+    },
+    {
+      "ar": "بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى تَكْذِيبٍ",
+      "en": "Indeed the faithless dwell in denial,",
+      "_n": 19
+    },
+    {
+      "ar": "وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطٌۢ",
+      "en": "and Allah besieges them from all around.",
+      "_n": 20
+    },
+    {
+      "ar": "بَلْ هُوَ قُرْءَانٌ مَّجِيدٌ",
+      "en": "Indeed it is a glorious Quran,",
+      "_n": 21
+    },
+    {
+      "ar": "فِى لَوْحٍ مَّحْفُوظٍۭ",
+      "en": "in a preserved tablet.",
+      "_n": 22
+    }
+  ],
+  "_n": 85,
+  "_c": 22
+}

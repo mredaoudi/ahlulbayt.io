@@ -1,0 +1,50 @@
+{
+  "ar": "الزلزلة",
+  "en": "The Earthquake",
+  "_a": "Az-Zalzala",
+  "_l": "Medinan",
+  "_v": [
+    {
+      "ar": "إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+      "en": "When the earth is rocked with a terrible quake",
+      "_n": 1
+    },
+    {
+      "ar": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+      "en": "and discharges its burdens,",
+      "_n": 2
+    },
+    {
+      "ar": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+      "en": "and man says, ‘What is the matter with her?’",
+      "_n": 3
+    },
+    {
+      "ar": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+      "en": "On that day she will relate her chronicles",
+      "_n": 4
+    },
+    {
+      "ar": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "en": "for her Lord will have inspired her.",
+      "_n": 5
+    },
+    {
+      "ar": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+      "en": "On that day, mankind will issue forth in various groups to be shown their deeds.",
+      "_n": 6
+    },
+    {
+      "ar": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+      "en": "So whoever does an atom’s weight of good will see it,",
+      "_n": 7
+    },
+    {
+      "ar": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+      "en": "and whoever does an atom’s weight of evil will see it.",
+      "_n": 8
+    }
+  ],
+  "_n": 99,
+  "_c": 8
+}

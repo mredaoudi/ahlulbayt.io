@@ -1,0 +1,40 @@
+{
+  "ar": "الفاتحة",
+  "en": "The Opening",
+  "_a": "Al-Faatiha",
+  "_l": "Meccan",
+  "_v": [
+    {
+      "ar": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+      "en": "All praise belongs to Allah, Lord of all the worlds,",
+      "_n": 1
+    },
+    {
+      "ar": "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "en": "the All-beneficent, the All-merciful,",
+      "_n": 2
+    },
+    {
+      "ar": "مَـٰلِكِ يَوْمِ ٱلدِّينِ",
+      "en": "Master of the Day of Retribution.",
+      "_n": 3
+    },
+    {
+      "ar": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+      "en": "You [alone] do we worship, and to You [alone] do we turn for help.",
+      "_n": 4
+    },
+    {
+      "ar": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+      "en": "Guide us on the straight path,",
+      "_n": 5
+    },
+    {
+      "ar": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+      "en": "the path of those whom You have blessed — such as have not incurred Your wrath, nor are astray.",
+      "_n": 6
+    }
+  ],
+  "_n": 1,
+  "_c": 6
+}

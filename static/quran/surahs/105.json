@@ -1,0 +1,35 @@
+{
+  "ar": "الفيل",
+  "en": "The Elephant",
+  "_a": "Al-Fil",
+  "_l": "Meccan",
+  "_v": [
+    {
+      "ar": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+      "en": "Have you not regarded how your Lord dealt with the army of the elephants?",
+      "_n": 1
+    },
+    {
+      "ar": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
+      "en": "Did He not make their stratagems go awry,",
+      "_n": 2
+    },
+    {
+      "ar": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "en": "and send against them flocks of birds",
+      "_n": 3
+    },
+    {
+      "ar": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+      "en": "pelting them with stones of shale,",
+      "_n": 4
+    },
+    {
+      "ar": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+      "en": "thus making them like chewed-up straw?",
+      "_n": 5
+    }
+  ],
+  "_n": 105,
+  "_c": 5
+}

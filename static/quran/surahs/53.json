@@ -1,0 +1,320 @@
+{
+  "ar": "النجم",
+  "en": "The Star",
+  "_a": "An-Najm",
+  "_l": "Meccan",
+  "_v": [
+    {
+      "ar": "وَٱلنَّجْمِ إِذَا هَوَىٰ",
+      "en": "By the star when it sets:",
+      "_n": 1
+    },
+    {
+      "ar": "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ",
+      "en": "your companion has neither gone astray, nor amiss.",
+      "_n": 2
+    },
+    {
+      "ar": "وَمَا يَنطِقُ عَنِ ٱلْهَوَىٰٓ",
+      "en": "Nor does he speak out of [his own] desire:",
+      "_n": 3
+    },
+    {
+      "ar": "إِنْ هُوَ إِلَّا وَحْىٌ يُوحَىٰ",
+      "en": "it is just a revelation that is revealed [to him],",
+      "_n": 4
+    },
+    {
+      "ar": "عَلَّمَهُۥ شَدِيدُ ٱلْقُوَىٰ",
+      "en": "taught him by one of great powers,",
+      "_n": 5
+    },
+    {
+      "ar": "ذُو مِرَّةٍ فَٱسْتَوَىٰ",
+      "en": "possessed of sound judgement. He settled,",
+      "_n": 6
+    },
+    {
+      "ar": "وَهُوَ بِٱلْأُفُقِ ٱلْأَعْلَىٰ",
+      "en": "while he was on the highest horizon.",
+      "_n": 7
+    },
+    {
+      "ar": "ثُمَّ دَنَا فَتَدَلَّىٰ",
+      "en": "Then he drew nearer and nearer",
+      "_n": 8
+    },
+    {
+      "ar": "فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ",
+      "en": "until he was within two bows’ length or even nearer,",
+      "_n": 9
+    },
+    {
+      "ar": "فَأَوْحَىٰٓ إِلَىٰ عَبْدِهِۦ مَآ أَوْحَىٰ",
+      "en": "whereat He revealed to His servant whatever He revealed.",
+      "_n": 10
+    },
+    {
+      "ar": "مَا كَذَبَ ٱلْفُؤَادُ مَا رَأَىٰٓ",
+      "en": "The heart did not deny what it saw.",
+      "_n": 11
+    },
+    {
+      "ar": "أَفَتُمَـٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ",
+      "en": "Will you then dispute with him about what he saw?!",
+      "_n": 12
+    },
+    {
+      "ar": "وَلَقَدْ رَءَاهُ نَزْلَةً أُخْرَىٰ",
+      "en": "Certainly he saw it yet another time,",
+      "_n": 13
+    },
+    {
+      "ar": "عِندَ سِدْرَةِ ٱلْمُنتَهَىٰ",
+      "en": "by the Lote Tree of the Ultimate Boundary,",
+      "_n": 14
+    },
+    {
+      "ar": "عِندَهَا جَنَّةُ ٱلْمَأْوَىٰٓ",
+      "en": "near which is the Garden of the Abode,",
+      "_n": 15
+    },
+    {
+      "ar": "إِذْ يَغْشَى ٱلسِّدْرَةَ مَا يَغْشَىٰ",
+      "en": "when there covered the Lote Tree what covered it.",
+      "_n": 16
+    },
+    {
+      "ar": "مَا زَاغَ ٱلْبَصَرُ وَمَا طَغَىٰ",
+      "en": "His gaze did not swerve, nor did it overstep the bounds.",
+      "_n": 17
+    },
+    {
+      "ar": "لَقَدْ رَأَىٰ مِنْ ءَايَـٰتِ رَبِّهِ ٱلْكُبْرَىٰٓ",
+      "en": "Certainly he saw some of the greatest signs of his Lord.",
+      "_n": 18
+    },
+    {
+      "ar": "أَفَرَءَيْتُمُ ٱللَّـٰتَ وَٱلْعُزَّىٰ",
+      "en": "Have you considered Lat and ‘Uzza?",
+      "_n": 19
+    },
+    {
+      "ar": "وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلْأُخْرَىٰٓ",
+      "en": "and Manat, the third one?",
+      "_n": 20
+    },
+    {
+      "ar": "أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلْأُنثَىٰ",
+      "en": "Are you to have males and He females?",
+      "_n": 21
+    },
+    {
+      "ar": "تِلْكَ إِذًا قِسْمَةٌ ضِيزَىٰٓ",
+      "en": "That, then, will be an unfair division!",
+      "_n": 22
+    },
+    {
+      "ar": "إِنْ هِىَ إِلَّآ أَسْمَآءٌ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَـٰنٍ ۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهْوَى ٱلْأَنفُسُ ۖ وَلَقَدْ جَآءَهُم مِّن رَّبِّهِمُ ٱلْهُدَىٰٓ",
+      "en": "These are but names, which you have coined—you and your fathers—for which Allah has not sent down any authority. They follow nothing but conjectures and the desires of the [lower] soul, while there has already come to them the guidance from their Lord.",
+      "_n": 23
+    },
+    {
+      "ar": "أَمْ لِلْإِنسَـٰنِ مَا تَمَنَّىٰ",
+      "en": "Shall man have whatever he yearns for?",
+      "_n": 24
+    },
+    {
+      "ar": "فَلِلَّهِ ٱلْـَٔاخِرَةُ وَٱلْأُولَىٰ",
+      "en": "Yet to Allah belong this world and the Hereafter.",
+      "_n": 25
+    },
+    {
+      "ar": "وَكَم مِّن مَّلَكٍ فِى ٱلسَّمَـٰوَٰتِ لَا تُغْنِى شَفَـٰعَتُهُمْ شَيْـًٔا إِلَّا مِنۢ بَعْدِ أَن يَأْذَنَ ٱللَّهُ لِمَن يَشَآءُ وَيَرْضَىٰٓ",
+      "en": "How many an angel there is in the heavens whose intercession is of not any avail, except after Allah permits whomever He wishes and approves of!",
+      "_n": 26
+    },
+    {
+      "ar": "إِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ لَيُسَمُّونَ ٱلْمَلَـٰٓئِكَةَ تَسْمِيَةَ ٱلْأُنثَىٰ",
+      "en": "Indeed those who do not believe in the Hereafter give female names to the angels.",
+      "_n": 27
+    },
+    {
+      "ar": "وَمَا لَهُم بِهِۦ مِنْ عِلْمٍ ۖ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ ۖ وَإِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًٔا",
+      "en": "They do not have any knowledge of that. They follow nothing but conjectures, and conjecture is no substitute for the truth.",
+      "_n": 28
+    },
+    {
+      "ar": "فَأَعْرِضْ عَن مَّن تَوَلَّىٰ عَن ذِكْرِنَا وَلَمْ يُرِدْ إِلَّا ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+      "en": "So avoid those who turn away from Our remembrance and desire nothing but the life of the world.",
+      "_n": 29
+    },
+    {
+      "ar": "ذَٰلِكَ مَبْلَغُهُم مِّنَ ٱلْعِلْمِ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعْلَمُ بِمَنِ ٱهْتَدَىٰ",
+      "en": "That is the ultimate reach of their knowledge. Indeed your Lord knows best those who stray from His way, and He knows best those who are [rightly] guided.",
+      "_n": 30
+    },
+    {
+      "ar": "وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ لِيَجْزِىَ ٱلَّذِينَ أَسَـٰٓـُٔوا۟ بِمَا عَمِلُوا۟ وَيَجْزِىَ ٱلَّذِينَ أَحْسَنُوا۟ بِٱلْحُسْنَى",
+      "en": "To Allah belongs whatever is in the heavens and whatever is in the earth, that He may requite those who do evil for what they have done, and reward those who do good with the best [of rewards].",
+      "_n": 31
+    },
+    {
+      "ar": "ٱلَّذِينَ يَجْتَنِبُونَ كَبَـٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ ۚ إِنَّ رَبَّكَ وَٰسِعُ ٱلْمَغْفِرَةِ ۚ هُوَ أَعْلَمُ بِكُمْ إِذْ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَإِذْ أَنتُمْ أَجِنَّةٌ فِى بُطُونِ أُمَّهَـٰتِكُمْ ۖ فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ ۖ هُوَ أَعْلَمُ بِمَنِ ٱتَّقَىٰٓ",
+      "en": "Those who avoid major sins and indecencies, apart from [minor and occasional] lapses. Indeed your Lord is expansive in [His] forgiveness. He knows you best since [the time] He produced you from the earth and since you were foetuses in the bellies of your mothers. So do not flaunt your piety: He knows best those who are Godwary.",
+      "_n": 32
+    },
+    {
+      "ar": "أَفَرَءَيْتَ ٱلَّذِى تَوَلَّىٰ",
+      "en": "Did you see him who turned away,",
+      "_n": 33
+    },
+    {
+      "ar": "وَأَعْطَىٰ قَلِيلًا وَأَكْدَىٰٓ",
+      "en": "gave a little and held off?",
+      "_n": 34
+    },
+    {
+      "ar": "أَعِندَهُۥ عِلْمُ ٱلْغَيْبِ فَهُوَ يَرَىٰٓ",
+      "en": "Does he have the knowledge of the Unseen so that he sees?",
+      "_n": 35
+    },
+    {
+      "ar": "أَمْ لَمْ يُنَبَّأْ بِمَا فِى صُحُفِ مُوسَىٰ",
+      "en": "Has he not been informed of what is in the scriptures of Moses,",
+      "_n": 36
+    },
+    {
+      "ar": "وَإِبْرَٰهِيمَ ٱلَّذِى وَفَّىٰٓ",
+      "en": "and of Abraham, who fulfilled [his summons]:",
+      "_n": 37
+    },
+    {
+      "ar": "أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ",
+      "en": "that no bearer shall bear another’s burden,",
+      "_n": 38
+    },
+    {
+      "ar": "وَأَن لَّيْسَ لِلْإِنسَـٰنِ إِلَّا مَا سَعَىٰ",
+      "en": "that nothing belongs to man except what he strives for,",
+      "_n": 39
+    },
+    {
+      "ar": "وَأَنَّ سَعْيَهُۥ سَوْفَ يُرَىٰ",
+      "en": "and that he will soon be shown his endeavour,",
+      "_n": 40
+    },
+    {
+      "ar": "ثُمَّ يُجْزَىٰهُ ٱلْجَزَآءَ ٱلْأَوْفَىٰ",
+      "en": "then he will be rewarded for it with the fullest reward;",
+      "_n": 41
+    },
+    {
+      "ar": "وَأَنَّ إِلَىٰ رَبِّكَ ٱلْمُنتَهَىٰ",
+      "en": "that the terminus is toward your Lord,",
+      "_n": 42
+    },
+    {
+      "ar": "وَأَنَّهُۥ هُوَ أَضْحَكَ وَأَبْكَىٰ",
+      "en": "that it is He who makes [men] laugh, and weep,",
+      "_n": 43
+    },
+    {
+      "ar": "وَأَنَّهُۥ هُوَ أَمَاتَ وَأَحْيَا",
+      "en": "that it is He who brings death and gives life,",
+      "_n": 44
+    },
+    {
+      "ar": "وَأَنَّهُۥ خَلَقَ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰ",
+      "en": "that it is He who created the mates, the male and the female,",
+      "_n": 45
+    },
+    {
+      "ar": "مِن نُّطْفَةٍ إِذَا تُمْنَىٰ",
+      "en": "from a drop of [seminal] fluid when emitted;",
+      "_n": 46
+    },
+    {
+      "ar": "وَأَنَّ عَلَيْهِ ٱلنَّشْأَةَ ٱلْأُخْرَىٰ",
+      "en": "that with Him lies the second genesis,",
+      "_n": 47
+    },
+    {
+      "ar": "وَأَنَّهُۥ هُوَ أَغْنَىٰ وَأَقْنَىٰ",
+      "en": "that it is He who enriches and grants possessions,",
+      "_n": 48
+    },
+    {
+      "ar": "وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعْرَىٰ",
+      "en": "that it is He who is the Lord of Sirius;",
+      "_n": 49
+    },
+    {
+      "ar": "وَأَنَّهُۥٓ أَهْلَكَ عَادًا ٱلْأُولَىٰ",
+      "en": "that it is He who destroyed the former ‘Ad,",
+      "_n": 50
+    },
+    {
+      "ar": "وَثَمُودَا۟ فَمَآ أَبْقَىٰ",
+      "en": "and Thamud, sparing none [of them];",
+      "_n": 51
+    },
+    {
+      "ar": "وَقَوْمَ نُوحٍ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا۟ هُمْ أَظْلَمَ وَأَطْغَىٰ",
+      "en": "and the people of Noah before that; indeed they were more unjust and rebellious;",
+      "_n": 52
+    },
+    {
+      "ar": "وَٱلْمُؤْتَفِكَةَ أَهْوَىٰ",
+      "en": "and He overthrew the town that was overturned,",
+      "_n": 53
+    },
+    {
+      "ar": "فَغَشَّىٰهَا مَا غَشَّىٰ",
+      "en": "covering it with what covered it.",
+      "_n": 54
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكَ تَتَمَارَىٰ",
+      "en": "Then which of the bounties of your Lord will you dispute?",
+      "_n": 55
+    },
+    {
+      "ar": "هَـٰذَا نَذِيرٌ مِّنَ ٱلنُّذُرِ ٱلْأُولَىٰٓ",
+      "en": "This is a warner, [in the tradition] of the warners of old.",
+      "_n": 56
+    },
+    {
+      "ar": "أَزِفَتِ ٱلْـَٔازِفَةُ",
+      "en": "The Imminent [Hour] is near at hand.",
+      "_n": 57
+    },
+    {
+      "ar": "لَيْسَ لَهَا مِن دُونِ ٱللَّهِ كَاشِفَةٌ",
+      "en": "There is none who may unveil it besides Allah.",
+      "_n": 58
+    },
+    {
+      "ar": "أَفَمِنْ هَـٰذَا ٱلْحَدِيثِ تَعْجَبُونَ",
+      "en": "Will you then wonder at this discourse,",
+      "_n": 59
+    },
+    {
+      "ar": "وَتَضْحَكُونَ وَلَا تَبْكُونَ",
+      "en": "and laugh and not weep,",
+      "_n": 60
+    },
+    {
+      "ar": "وَأَنتُمْ سَـٰمِدُونَ",
+      "en": "while you remain heedless?!",
+      "_n": 61
+    },
+    {
+      "ar": "فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩",
+      "en": "So prostrate yourselves to Allah and worship Him!",
+      "_n": 62
+    }
+  ],
+  "_n": 53,
+  "_c": 62
+}

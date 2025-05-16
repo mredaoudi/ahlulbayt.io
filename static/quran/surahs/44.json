@@ -1,0 +1,305 @@
+{
+  "ar": "الدخان",
+  "en": "The Smoke",
+  "_a": "Ad-Dukhaan",
+  "_l": "Meccan",
+  "_v": [
+    {
+      "ar": "حمٓ",
+      "en": "Ha, Meem.",
+      "_n": 1
+    },
+    {
+      "ar": "وَٱلْكِتَـٰبِ ٱلْمُبِينِ",
+      "en": "By the Manifest Book!",
+      "_n": 2
+    },
+    {
+      "ar": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةٍ مُّبَـٰرَكَةٍ ۚ إِنَّا كُنَّا مُنذِرِينَ",
+      "en": "We sent it down on a blessed night, and We have been warning [mankind].",
+      "_n": 3
+    },
+    {
+      "ar": "فِيهَا يُفْرَقُ كُلُّ أَمْرٍ حَكِيمٍ",
+      "en": "Every definitive matter is resolved on it,",
+      "_n": 4
+    },
+    {
+      "ar": "أَمْرًا مِّنْ عِندِنَآ ۚ إِنَّا كُنَّا مُرْسِلِينَ",
+      "en": "as an ordinance from Us. We have been sending [apostles]",
+      "_n": 5
+    },
+    {
+      "ar": "رَحْمَةً مِّن رَّبِّكَ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "en": "as a mercy from your Lord—indeed He is the All-hearing, the All-knowing—",
+      "_n": 6
+    },
+    {
+      "ar": "رَبِّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَآ ۖ إِن كُنتُم مُّوقِنِينَ",
+      "en": "the Lord of the heavens and the earth, and whatever is between them, should you have conviction.",
+      "_n": 7
+    },
+    {
+      "ar": "لَآ إِلَـٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ ۖ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
+      "en": "There is no god except Him: He gives life and brings death, your Lord and the Lord of your forefathers.",
+      "_n": 8
+    },
+    {
+      "ar": "بَلْ هُمْ فِى شَكٍّ يَلْعَبُونَ",
+      "en": "But they play around in doubt.",
+      "_n": 9
+    },
+    {
+      "ar": "فَٱرْتَقِبْ يَوْمَ تَأْتِى ٱلسَّمَآءُ بِدُخَانٍ مُّبِينٍ",
+      "en": "So watch out for the day when the sky brings on a manifest smoke,",
+      "_n": 10
+    },
+    {
+      "ar": "يَغْشَى ٱلنَّاسَ ۖ هَـٰذَا عَذَابٌ أَلِيمٌ",
+      "en": "enveloping the people. [They will cry out:] ‘This is a painful punishment.",
+      "_n": 11
+    },
+    {
+      "ar": "رَّبَّنَا ٱكْشِفْ عَنَّا ٱلْعَذَابَ إِنَّا مُؤْمِنُونَ",
+      "en": "Our Lord! Remove this punishment from us. Indeed we have believed!’",
+      "_n": 12
+    },
+    {
+      "ar": "أَنَّىٰ لَهُمُ ٱلذِّكْرَىٰ وَقَدْ جَآءَهُمْ رَسُولٌ مُّبِينٌ",
+      "en": "What will the admonition avail them, when a manifest apostle had already come to them,",
+      "_n": 13
+    },
+    {
+      "ar": "ثُمَّ تَوَلَّوْا۟ عَنْهُ وَقَالُوا۟ مُعَلَّمٌ مَّجْنُونٌ",
+      "en": "but they turned away from him, and said, ‘A tutored madman?’",
+      "_n": 14
+    },
+    {
+      "ar": "إِنَّا كَاشِفُوا۟ ٱلْعَذَابِ قَلِيلًا ۚ إِنَّكُمْ عَآئِدُونَ",
+      "en": "Indeed We will withdraw the punishment a little; but you will revert [to your earlier ways].",
+      "_n": 15
+    },
+    {
+      "ar": "يَوْمَ نَبْطِشُ ٱلْبَطْشَةَ ٱلْكُبْرَىٰٓ إِنَّا مُنتَقِمُونَ",
+      "en": "The day We shall strike with the most terrible striking, We will indeed take vengeance [on them].",
+      "_n": 16
+    },
+    {
+      "ar": "وَلَقَدْ فَتَنَّا قَبْلَهُمْ قَوْمَ فِرْعَوْنَ وَجَآءَهُمْ رَسُولٌ كَرِيمٌ",
+      "en": "Certainly We tried the people of Pharaoh before them, when a noble apostle came to them,",
+      "_n": 17
+    },
+    {
+      "ar": "أَنْ أَدُّوٓا۟ إِلَىَّ عِبَادَ ٱللَّهِ ۖ إِنِّى لَكُمْ رَسُولٌ أَمِينٌ",
+      "en": "[saying,] ‘Give over the servants of Allah to me; indeed I am a trusted apostle [sent] to you.",
+      "_n": 18
+    },
+    {
+      "ar": "وَأَن لَّا تَعْلُوا۟ عَلَى ٱللَّهِ ۖ إِنِّىٓ ءَاتِيكُم بِسُلْطَـٰنٍ مُّبِينٍ",
+      "en": "Do not defy Allah. Indeed I bring you a manifest authority.",
+      "_n": 19
+    },
+    {
+      "ar": "وَإِنِّى عُذْتُ بِرَبِّى وَرَبِّكُمْ أَن تَرْجُمُونِ",
+      "en": "I seek the protection of my Lord and your Lord, lest you should stone me.",
+      "_n": 20
+    },
+    {
+      "ar": "وَإِن لَّمْ تُؤْمِنُوا۟ لِى فَٱعْتَزِلُونِ",
+      "en": "And if you do not believe me, keep out of my way.’",
+      "_n": 21
+    },
+    {
+      "ar": "فَدَعَا رَبَّهُۥٓ أَنَّ هَـٰٓؤُلَآءِ قَوْمٌ مُّجْرِمُونَ",
+      "en": "Then he invoked his Lord, [saying,] ‘These are indeed a guilty lot.’",
+      "_n": 22
+    },
+    {
+      "ar": "فَأَسْرِ بِعِبَادِى لَيْلًا إِنَّكُم مُّتَّبَعُونَ",
+      "en": "[Allah told him,] ‘Set out by night with My servants; for you will be pursued.",
+      "_n": 23
+    },
+    {
+      "ar": "وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا ۖ إِنَّهُمْ جُندٌ مُّغْرَقُونَ",
+      "en": "Leave behind the sea unmoving; for they will be a drowned host.’",
+      "_n": 24
+    },
+    {
+      "ar": "كَمْ تَرَكُوا۟ مِن جَنَّـٰتٍ وَعُيُونٍ",
+      "en": "How many gardens and springs did they leave behind!",
+      "_n": 25
+    },
+    {
+      "ar": "وَزُرُوعٍ وَمَقَامٍ كَرِيمٍ",
+      "en": "Fields and splendid places,",
+      "_n": 26
+    },
+    {
+      "ar": "وَنَعْمَةٍ كَانُوا۟ فِيهَا فَـٰكِهِينَ",
+      "en": "and the affluence wherein they rejoiced!",
+      "_n": 27
+    },
+    {
+      "ar": "كَذَٰلِكَ ۖ وَأَوْرَثْنَـٰهَا قَوْمًا ءَاخَرِينَ",
+      "en": "So it was; and We bequeathed them to another people.",
+      "_n": 28
+    },
+    {
+      "ar": "فَمَا بَكَتْ عَلَيْهِمُ ٱلسَّمَآءُ وَٱلْأَرْضُ وَمَا كَانُوا۟ مُنظَرِينَ",
+      "en": "So neither the sky wept for them, nor the earth; nor were they granted any respite.",
+      "_n": 29
+    },
+    {
+      "ar": "وَلَقَدْ نَجَّيْنَا بَنِىٓ إِسْرَٰٓءِيلَ مِنَ ٱلْعَذَابِ ٱلْمُهِينِ",
+      "en": "Certainly We delivered the Children of Israel from the humiliating torment",
+      "_n": 30
+    },
+    {
+      "ar": "مِن فِرْعَوْنَ ۚ إِنَّهُۥ كَانَ عَالِيًا مِّنَ ٱلْمُسْرِفِينَ",
+      "en": "of Pharaoh. Indeed, he was a tyrant among the transgressors.",
+      "_n": 31
+    },
+    {
+      "ar": "وَلَقَدِ ٱخْتَرْنَـٰهُمْ عَلَىٰ عِلْمٍ عَلَى ٱلْعَـٰلَمِينَ",
+      "en": "Certainly We chose them knowingly above all the nations,",
+      "_n": 32
+    },
+    {
+      "ar": "وَءَاتَيْنَـٰهُم مِّنَ ٱلْـَٔايَـٰتِ مَا فِيهِ بَلَـٰٓؤٌا۟ مُّبِينٌ",
+      "en": "and We gave them some signs in which there was a manifest test.",
+      "_n": 33
+    },
+    {
+      "ar": "إِنَّ هَـٰٓؤُلَآءِ لَيَقُولُونَ",
+      "en": "These ones say,",
+      "_n": 34
+    },
+    {
+      "ar": "إِنْ هِىَ إِلَّا مَوْتَتُنَا ٱلْأُولَىٰ وَمَا نَحْنُ بِمُنشَرِينَ",
+      "en": "‘It will be only our first death, and we shall not be resurrected.",
+      "_n": 35
+    },
+    {
+      "ar": "فَأْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَـٰدِقِينَ",
+      "en": "Bring our fathers back [to life], if you are truthful.’",
+      "_n": 36
+    },
+    {
+      "ar": "أَهُمْ خَيْرٌ أَمْ قَوْمُ تُبَّعٍ وَٱلَّذِينَ مِن قَبْلِهِمْ ۚ أَهْلَكْنَـٰهُمْ ۖ إِنَّهُمْ كَانُوا۟ مُجْرِمِينَ",
+      "en": "Are they better, or the people of Tubba‘, and those who were before them? We destroyed them; indeed, they were guilty.",
+      "_n": 37
+    },
+    {
+      "ar": "وَمَا خَلَقْنَا ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا لَـٰعِبِينَ",
+      "en": "We did not create the heavens and the earth and whatever is between them for play.",
+      "_n": 38
+    },
+    {
+      "ar": "مَا خَلَقْنَـٰهُمَآ إِلَّا بِٱلْحَقِّ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+      "en": "We did not create them except with consummate wisdom; but most of them do not know.",
+      "_n": 39
+    },
+    {
+      "ar": "إِنَّ يَوْمَ ٱلْفَصْلِ مِيقَـٰتُهُمْ أَجْمَعِينَ",
+      "en": "Indeed the Day of Judgement is the tryst for them all,",
+      "_n": 40
+    },
+    {
+      "ar": "يَوْمَ لَا يُغْنِى مَوْلًى عَن مَّوْلًى شَيْـًٔا وَلَا هُمْ يُنصَرُونَ",
+      "en": "the day when a friend will not avail a friend in any way, nor will they be helped,",
+      "_n": 41
+    },
+    {
+      "ar": "إِلَّا مَن رَّحِمَ ٱللَّهُ ۚ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+      "en": "except for him on whom Allah has mercy. Indeed He is the All-mighty, the All-merciful.",
+      "_n": 42
+    },
+    {
+      "ar": "إِنَّ شَجَرَتَ ٱلزَّقُّومِ",
+      "en": "Indeed the tree of Zaqqum",
+      "_n": 43
+    },
+    {
+      "ar": "طَعَامُ ٱلْأَثِيمِ",
+      "en": "will be the food of the sinful.",
+      "_n": 44
+    },
+    {
+      "ar": "كَٱلْمُهْلِ يَغْلِى فِى ٱلْبُطُونِ",
+      "en": "Like molten copper it will boil in their bellies,",
+      "_n": 45
+    },
+    {
+      "ar": "كَغَلْىِ ٱلْحَمِيمِ",
+      "en": "seething like boiling water.",
+      "_n": 46
+    },
+    {
+      "ar": "خُذُوهُ فَٱعْتِلُوهُ إِلَىٰ سَوَآءِ ٱلْجَحِيمِ",
+      "en": "[The keepers of hell will be told,] ‘Seize him and drag him to the middle of hell,",
+      "_n": 47
+    },
+    {
+      "ar": "ثُمَّ صُبُّوا۟ فَوْقَ رَأْسِهِۦ مِنْ عَذَابِ ٱلْحَمِيمِ",
+      "en": "then pour over his head boiling water as punishment,",
+      "_n": 48
+    },
+    {
+      "ar": "ذُقْ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْكَرِيمُ",
+      "en": "[and tell them,] “Taste this! Indeed you are the [self-styled] mighty and noble!",
+      "_n": 49
+    },
+    {
+      "ar": "إِنَّ هَـٰذَا مَا كُنتُم بِهِۦ تَمْتَرُونَ",
+      "en": "This is what you used to doubt!’",
+      "_n": 50
+    },
+    {
+      "ar": "إِنَّ ٱلْمُتَّقِينَ فِى مَقَامٍ أَمِينٍ",
+      "en": "Indeed the Godwary will be in a safe place,",
+      "_n": 51
+    },
+    {
+      "ar": "فِى جَنَّـٰتٍ وَعُيُونٍ",
+      "en": "amid gardens and springs,",
+      "_n": 52
+    },
+    {
+      "ar": "يَلْبَسُونَ مِن سُندُسٍ وَإِسْتَبْرَقٍ مُّتَقَـٰبِلِينَ",
+      "en": "dressed in fine silk and brocade, sitting face to face.",
+      "_n": 53
+    },
+    {
+      "ar": "كَذَٰلِكَ وَزَوَّجْنَـٰهُم بِحُورٍ عِينٍ",
+      "en": "So shall it be, and We shall wed them to black-eyed houris.",
+      "_n": 54
+    },
+    {
+      "ar": "يَدْعُونَ فِيهَا بِكُلِّ فَـٰكِهَةٍ ءَامِنِينَ",
+      "en": "Secure [from any kind of harm,] there they will call for every kind of fruit [they wish].",
+      "_n": 55
+    },
+    {
+      "ar": "لَا يَذُوقُونَ فِيهَا ٱلْمَوْتَ إِلَّا ٱلْمَوْتَةَ ٱلْأُولَىٰ ۖ وَوَقَىٰهُمْ عَذَابَ ٱلْجَحِيمِ",
+      "en": "Other than the first death, they will not taste death therein, and He will save them from the punishment of hell",
+      "_n": 56
+    },
+    {
+      "ar": "فَضْلًا مِّن رَّبِّكَ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "en": "—a grace from your Lord. That is the great success.",
+      "_n": 57
+    },
+    {
+      "ar": "فَإِنَّمَا يَسَّرْنَـٰهُ بِلِسَانِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+      "en": "Indeed We have made it simple in your language, so that they may take admonition.",
+      "_n": 58
+    },
+    {
+      "ar": "فَٱرْتَقِبْ إِنَّهُم مُّرْتَقِبُونَ",
+      "en": "So wait! They [too] are waiting.",
+      "_n": 59
+    }
+  ],
+  "_n": 44,
+  "_c": 59
+}

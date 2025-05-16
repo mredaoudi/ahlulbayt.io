@@ -1,0 +1,45 @@
+{
+  "ar": "الماعون",
+  "en": "Almsgiving",
+  "_a": "Al-Maa'un",
+  "_l": "Meccan",
+  "_v": [
+    {
+      "ar": "أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+      "en": "Did you see him who denies the Retribution?",
+      "_n": 1
+    },
+    {
+      "ar": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
+      "en": "That is the one, who drives away the orphan,",
+      "_n": 2
+    },
+    {
+      "ar": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "en": "and does not urge the feeding of the needy.",
+      "_n": 3
+    },
+    {
+      "ar": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+      "en": "Woe to those who pray",
+      "_n": 4
+    },
+    {
+      "ar": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+      "en": "but are heedless of their prayers",
+      "_n": 5
+    },
+    {
+      "ar": "ٱلَّذِينَ هُمْ يُرَآءُونَ",
+      "en": "—who show off",
+      "_n": 6
+    },
+    {
+      "ar": "وَيَمْنَعُونَ ٱلْمَاعُونَ",
+      "en": "but deny aid.",
+      "_n": 7
+    }
+  ],
+  "_n": 107,
+  "_c": 7
+}

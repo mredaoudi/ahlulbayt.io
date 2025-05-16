@@ -1,0 +1,914 @@
+[
+  {
+    "ar": "الفاتحة",
+    "en": "The Opening",
+    "_a": "Al-Faatiha",
+    "_l": "Meccan",
+    "_c": 6,
+    "_n": 1
+  },
+  {
+    "ar": "البقرة",
+    "en": "The Cow",
+    "_a": "Al-Baqara",
+    "_l": "Medinan",
+    "_c": 286,
+    "_n": 2
+  },
+  {
+    "ar": "آل عمران",
+    "en": "The Family of Imraan",
+    "_a": "Aal-i-Imraan",
+    "_l": "Medinan",
+    "_c": 200,
+    "_n": 3
+  },
+  {
+    "ar": "النساء",
+    "en": "The Women",
+    "_a": "An-Nisaa",
+    "_l": "Medinan",
+    "_c": 176,
+    "_n": 4
+  },
+  {
+    "ar": "المائدة",
+    "en": "The Table",
+    "_a": "Al-Maaida",
+    "_l": "Medinan",
+    "_c": 120,
+    "_n": 5
+  },
+  {
+    "ar": "الأنعام",
+    "en": "The Cattle",
+    "_a": "Al-An'aam",
+    "_l": "Meccan",
+    "_c": 165,
+    "_n": 6
+  },
+  {
+    "ar": "الأعراف",
+    "en": "The Heights",
+    "_a": "Al-A'raaf",
+    "_l": "Meccan",
+    "_c": 206,
+    "_n": 7
+  },
+  {
+    "ar": "الأنفال",
+    "en": "The Spoils of War",
+    "_a": "Al-Anfaal",
+    "_l": "Medinan",
+    "_c": 75,
+    "_n": 8
+  },
+  {
+    "ar": "التوبة",
+    "en": "The Repentance",
+    "_a": "At-Tawba",
+    "_l": "Medinan",
+    "_c": 129,
+    "_n": 9
+  },
+  {
+    "ar": "يونس",
+    "en": "Jonas",
+    "_a": "Yunus",
+    "_l": "Meccan",
+    "_c": 109,
+    "_n": 10
+  },
+  {
+    "ar": "هود",
+    "en": "Hud",
+    "_a": "Hud",
+    "_l": "Meccan",
+    "_c": 123,
+    "_n": 11
+  },
+  {
+    "ar": "يوسف",
+    "en": "Joseph",
+    "_a": "Yusuf",
+    "_l": "Meccan",
+    "_c": 111,
+    "_n": 12
+  },
+  {
+    "ar": "الرعد",
+    "en": "The Thunder",
+    "_a": "Ar-Ra'd",
+    "_l": "Medinan",
+    "_c": 43,
+    "_n": 13
+  },
+  {
+    "ar": "إبراهيم",
+    "en": "Abraham",
+    "_a": "Ibrahim",
+    "_l": "Meccan",
+    "_c": 52,
+    "_n": 14
+  },
+  {
+    "ar": "الحجر",
+    "en": "The Rock",
+    "_a": "Al-Hijr",
+    "_l": "Meccan",
+    "_c": 99,
+    "_n": 15
+  },
+  {
+    "ar": "النحل",
+    "en": "The Bee",
+    "_a": "An-Nahl",
+    "_l": "Meccan",
+    "_c": 128,
+    "_n": 16
+  },
+  {
+    "ar": "الإسراء",
+    "en": "The Night Journey",
+    "_a": "Al-Israa",
+    "_l": "Meccan",
+    "_c": 111,
+    "_n": 17
+  },
+  {
+    "ar": "الكهف",
+    "en": "The Cave",
+    "_a": "Al-Kahf",
+    "_l": "Meccan",
+    "_c": 110,
+    "_n": 18
+  },
+  {
+    "ar": "مريم",
+    "en": "Mary",
+    "_a": "Maryam",
+    "_l": "Meccan",
+    "_c": 98,
+    "_n": 19
+  },
+  {
+    "ar": "طه",
+    "en": "Taa-Haa",
+    "_a": "Taa-Haa",
+    "_l": "Meccan",
+    "_c": 135,
+    "_n": 20
+  },
+  {
+    "ar": "الأنبياء",
+    "en": "The Prophets",
+    "_a": "Al-Anbiyaa",
+    "_l": "Meccan",
+    "_c": 112,
+    "_n": 21
+  },
+  {
+    "ar": "الحج",
+    "en": "The Pilgrimage",
+    "_a": "Al-Hajj",
+    "_l": "Medinan",
+    "_c": 78,
+    "_n": 22
+  },
+  {
+    "ar": "المؤمنون",
+    "en": "The Believers",
+    "_a": "Al-Muminoon",
+    "_l": "Meccan",
+    "_c": 118,
+    "_n": 23
+  },
+  {
+    "ar": "النور",
+    "en": "The Light",
+    "_a": "An-Noor",
+    "_l": "Medinan",
+    "_c": 64,
+    "_n": 24
+  },
+  {
+    "ar": "الفرقان",
+    "en": "The Criterion",
+    "_a": "Al-Furqaan",
+    "_l": "Meccan",
+    "_c": 77,
+    "_n": 25
+  },
+  {
+    "ar": "الشعراء",
+    "en": "The Poets",
+    "_a": "Ash-Shu'araa",
+    "_l": "Meccan",
+    "_c": 227,
+    "_n": 26
+  },
+  {
+    "ar": "النمل",
+    "en": "The Ant",
+    "_a": "An-Naml",
+    "_l": "Meccan",
+    "_c": 93,
+    "_n": 27
+  },
+  {
+    "ar": "القصص",
+    "en": "The Stories",
+    "_a": "Al-Qasas",
+    "_l": "Meccan",
+    "_c": 88,
+    "_n": 28
+  },
+  {
+    "ar": "العنكبوت",
+    "en": "The Spider",
+    "_a": "Al-Ankaboot",
+    "_l": "Meccan",
+    "_c": 69,
+    "_n": 29
+  },
+  {
+    "ar": "الروم",
+    "en": "The Romans",
+    "_a": "Ar-Room",
+    "_l": "Meccan",
+    "_c": 60,
+    "_n": 30
+  },
+  {
+    "ar": "لقمان",
+    "en": "Luqman",
+    "_a": "Luqman",
+    "_l": "Meccan",
+    "_c": 34,
+    "_n": 31
+  },
+  {
+    "ar": "السجدة",
+    "en": "The Prostration",
+    "_a": "As-Sajda",
+    "_l": "Meccan",
+    "_c": 30,
+    "_n": 32
+  },
+  {
+    "ar": "الأحزاب",
+    "en": "The Clans",
+    "_a": "Al-Ahzaab",
+    "_l": "Medinan",
+    "_c": 73,
+    "_n": 33
+  },
+  {
+    "ar": "سبأ",
+    "en": "Sheba",
+    "_a": "Saba",
+    "_l": "Meccan",
+    "_c": 54,
+    "_n": 34
+  },
+  {
+    "ar": "فاطر",
+    "en": "The Originator",
+    "_a": "Faatir",
+    "_l": "Meccan",
+    "_c": 45,
+    "_n": 35
+  },
+  {
+    "ar": "يس",
+    "en": "Yaseen",
+    "_a": "Yaseen",
+    "_l": "Meccan",
+    "_c": 83,
+    "_n": 36
+  },
+  {
+    "ar": "الصافات",
+    "en": "Those drawn up in Ranks",
+    "_a": "As-Saaffaat",
+    "_l": "Meccan",
+    "_c": 182,
+    "_n": 37
+  },
+  {
+    "ar": "ص",
+    "en": "The letter Saad",
+    "_a": "Saad",
+    "_l": "Meccan",
+    "_c": 88,
+    "_n": 38
+  },
+  {
+    "ar": "الزمر",
+    "en": "The Groups",
+    "_a": "Az-Zumar",
+    "_l": "Meccan",
+    "_c": 75,
+    "_n": 39
+  },
+  {
+    "ar": "غافر",
+    "en": "The Forgiver",
+    "_a": "Al-Ghaafir",
+    "_l": "Meccan",
+    "_c": 85,
+    "_n": 40
+  },
+  {
+    "ar": "فصلت",
+    "en": "Explained in detail",
+    "_a": "Fussilat",
+    "_l": "Meccan",
+    "_c": 54,
+    "_n": 41
+  },
+  {
+    "ar": "الشورى",
+    "en": "Consultation",
+    "_a": "Ash-Shura",
+    "_l": "Meccan",
+    "_c": 53,
+    "_n": 42
+  },
+  {
+    "ar": "الزخرف",
+    "en": "Ornaments of gold",
+    "_a": "Az-Zukhruf",
+    "_l": "Meccan",
+    "_c": 89,
+    "_n": 43
+  },
+  {
+    "ar": "الدخان",
+    "en": "The Smoke",
+    "_a": "Ad-Dukhaan",
+    "_l": "Meccan",
+    "_c": 59,
+    "_n": 44
+  },
+  {
+    "ar": "الجاثية",
+    "en": "Crouching",
+    "_a": "Al-Jaathiya",
+    "_l": "Meccan",
+    "_c": 37,
+    "_n": 45
+  },
+  {
+    "ar": "الأحقاف",
+    "en": "The Dunes",
+    "_a": "Al-Ahqaf",
+    "_l": "Meccan",
+    "_c": 35,
+    "_n": 46
+  },
+  {
+    "ar": "محمد",
+    "en": "Muhammad",
+    "_a": "Muhammad",
+    "_l": "Medinan",
+    "_c": 38,
+    "_n": 47
+  },
+  {
+    "ar": "الفتح",
+    "en": "The Victory",
+    "_a": "Al-Fath",
+    "_l": "Medinan",
+    "_c": 29,
+    "_n": 48
+  },
+  {
+    "ar": "الحجرات",
+    "en": "The Inner Apartments",
+    "_a": "Al-Hujuraat",
+    "_l": "Medinan",
+    "_c": 18,
+    "_n": 49
+  },
+  {
+    "ar": "ق",
+    "en": "The letter Qaaf",
+    "_a": "Qaaf",
+    "_l": "Meccan",
+    "_c": 45,
+    "_n": 50
+  },
+  {
+    "ar": "الذاريات",
+    "en": "The Winnowing Winds",
+    "_a": "Adh-Dhaariyat",
+    "_l": "Meccan",
+    "_c": 60,
+    "_n": 51
+  },
+  {
+    "ar": "الطور",
+    "en": "The Mount",
+    "_a": "At-Tur",
+    "_l": "Meccan",
+    "_c": 49,
+    "_n": 52
+  },
+  {
+    "ar": "النجم",
+    "en": "The Star",
+    "_a": "An-Najm",
+    "_l": "Meccan",
+    "_c": 62,
+    "_n": 53
+  },
+  {
+    "ar": "القمر",
+    "en": "The Moon",
+    "_a": "Al-Qamar",
+    "_l": "Meccan",
+    "_c": 55,
+    "_n": 54
+  },
+  {
+    "ar": "الرحمن",
+    "en": "The Beneficent",
+    "_a": "Ar-Rahmaan",
+    "_l": "Medinan",
+    "_c": 78,
+    "_n": 55
+  },
+  {
+    "ar": "الواقعة",
+    "en": "The Inevitable",
+    "_a": "Al-Waaqia",
+    "_l": "Meccan",
+    "_c": 96,
+    "_n": 56
+  },
+  {
+    "ar": "الحديد",
+    "en": "The Iron",
+    "_a": "Al-Hadid",
+    "_l": "Medinan",
+    "_c": 29,
+    "_n": 57
+  },
+  {
+    "ar": "المجادلة",
+    "en": "The Pleading Woman",
+    "_a": "Al-Mujaadila",
+    "_l": "Medinan",
+    "_c": 22,
+    "_n": 58
+  },
+  {
+    "ar": "الحشر",
+    "en": "The Exile",
+    "_a": "Al-Hashr",
+    "_l": "Medinan",
+    "_c": 24,
+    "_n": 59
+  },
+  {
+    "ar": "الممتحنة",
+    "en": "She that is to be examined",
+    "_a": "Al-Mumtahana",
+    "_l": "Medinan",
+    "_c": 13,
+    "_n": 60
+  },
+  {
+    "ar": "الصف",
+    "en": "The Ranks",
+    "_a": "As-Saff",
+    "_l": "Medinan",
+    "_c": 14,
+    "_n": 61
+  },
+  {
+    "ar": "الجمعة",
+    "en": "Friday",
+    "_a": "Al-Jumu'a",
+    "_l": "Medinan",
+    "_c": 11,
+    "_n": 62
+  },
+  {
+    "ar": "المنافقون",
+    "en": "The Hypocrites",
+    "_a": "Al-Munaafiqoon",
+    "_l": "Medinan",
+    "_c": 11,
+    "_n": 63
+  },
+  {
+    "ar": "التغابن",
+    "en": "Mutual Disillusion",
+    "_a": "At-Taghaabun",
+    "_l": "Medinan",
+    "_c": 18,
+    "_n": 64
+  },
+  {
+    "ar": "الطلاق",
+    "en": "Divorce",
+    "_a": "At-Talaaq",
+    "_l": "Medinan",
+    "_c": 12,
+    "_n": 65
+  },
+  {
+    "ar": "التحريم",
+    "en": "The Prohibition",
+    "_a": "At-Tahrim",
+    "_l": "Medinan",
+    "_c": 12,
+    "_n": 66
+  },
+  {
+    "ar": "الملك",
+    "en": "The Sovereignty",
+    "_a": "Al-Mulk",
+    "_l": "Meccan",
+    "_c": 30,
+    "_n": 67
+  },
+  {
+    "ar": "القلم",
+    "en": "The Pen",
+    "_a": "Al-Qalam",
+    "_l": "Meccan",
+    "_c": 52,
+    "_n": 68
+  },
+  {
+    "ar": "الحاقة",
+    "en": "The Reality",
+    "_a": "Al-Haaqqa",
+    "_l": "Meccan",
+    "_c": 52,
+    "_n": 69
+  },
+  {
+    "ar": "المعارج",
+    "en": "The Ascending Stairways",
+    "_a": "Al-Ma'aarij",
+    "_l": "Meccan",
+    "_c": 44,
+    "_n": 70
+  },
+  {
+    "ar": "نوح",
+    "en": "Noah",
+    "_a": "Nooh",
+    "_l": "Meccan",
+    "_c": 28,
+    "_n": 71
+  },
+  {
+    "ar": "الجن",
+    "en": "The Jinn",
+    "_a": "Al-Jinn",
+    "_l": "Meccan",
+    "_c": 28,
+    "_n": 72
+  },
+  {
+    "ar": "المزمّل",
+    "en": "The Enshrouded One",
+    "_a": "Al-Muzzammil",
+    "_l": "Meccan",
+    "_c": 20,
+    "_n": 73
+  },
+  {
+    "ar": "المدَّثّر",
+    "en": "The Cloaked One",
+    "_a": "Al-Muddaththir",
+    "_l": "Meccan",
+    "_c": 56,
+    "_n": 74
+  },
+  {
+    "ar": "القيامة",
+    "en": "The Resurrection",
+    "_a": "Al-Qiyaama",
+    "_l": "Meccan",
+    "_c": 40,
+    "_n": 75
+  },
+  {
+    "ar": "الانسان",
+    "en": "Man",
+    "_a": "Al-Insaan",
+    "_l": "Medinan",
+    "_c": 31,
+    "_n": 76
+  },
+  {
+    "ar": "المرسلات",
+    "en": "The Emissaries",
+    "_a": "Al-Mursalaat",
+    "_l": "Meccan",
+    "_c": 50,
+    "_n": 77
+  },
+  {
+    "ar": "النبأ",
+    "en": "The Announcement",
+    "_a": "An-Naba",
+    "_l": "Meccan",
+    "_c": 40,
+    "_n": 78
+  },
+  {
+    "ar": "النازعات",
+    "en": "Those who drag forth",
+    "_a": "An-Naazi'aat",
+    "_l": "Meccan",
+    "_c": 46,
+    "_n": 79
+  },
+  {
+    "ar": "عبس",
+    "en": "He frowned",
+    "_a": "Abasa",
+    "_l": "Meccan",
+    "_c": 42,
+    "_n": 80
+  },
+  {
+    "ar": "التكوير",
+    "en": "The Overthrowing",
+    "_a": "At-Takwir",
+    "_l": "Meccan",
+    "_c": 29,
+    "_n": 81
+  },
+  {
+    "ar": "الانفطار",
+    "en": "The Cleaving",
+    "_a": "Al-Infitaar",
+    "_l": "Meccan",
+    "_c": 19,
+    "_n": 82
+  },
+  {
+    "ar": "المطفّفين",
+    "en": "Defrauding",
+    "_a": "Al-Mutaffifin",
+    "_l": "Meccan",
+    "_c": 36,
+    "_n": 83
+  },
+  {
+    "ar": "الانشقاق",
+    "en": "The Splitting Open",
+    "_a": "Al-Inshiqaaq",
+    "_l": "Meccan",
+    "_c": 25,
+    "_n": 84
+  },
+  {
+    "ar": "البروج",
+    "en": "The Constellations",
+    "_a": "Al-Burooj",
+    "_l": "Meccan",
+    "_c": 22,
+    "_n": 85
+  },
+  {
+    "ar": "الطارق",
+    "en": "The Morning Star",
+    "_a": "At-Taariq",
+    "_l": "Meccan",
+    "_c": 17,
+    "_n": 86
+  },
+  {
+    "ar": "الأعلى",
+    "en": "The Most High",
+    "_a": "Al-A'laa",
+    "_l": "Meccan",
+    "_c": 19,
+    "_n": 87
+  },
+  {
+    "ar": "الغاشية",
+    "en": "The Overwhelming",
+    "_a": "Al-Ghaashiya",
+    "_l": "Meccan",
+    "_c": 26,
+    "_n": 88
+  },
+  {
+    "ar": "الفجر",
+    "en": "The Dawn",
+    "_a": "Al-Fajr",
+    "_l": "Meccan",
+    "_c": 30,
+    "_n": 89
+  },
+  {
+    "ar": "البلد",
+    "en": "The City",
+    "_a": "Al-Balad",
+    "_l": "Meccan",
+    "_c": 20,
+    "_n": 90
+  },
+  {
+    "ar": "الشمس",
+    "en": "The Sun",
+    "_a": "Ash-Shams",
+    "_l": "Meccan",
+    "_c": 15,
+    "_n": 91
+  },
+  {
+    "ar": "الليل",
+    "en": "The Night",
+    "_a": "Al-Lail",
+    "_l": "Meccan",
+    "_c": 21,
+    "_n": 92
+  },
+  {
+    "ar": "الضحى",
+    "en": "The Morning Hours",
+    "_a": "Ad-Dhuhaa",
+    "_l": "Meccan",
+    "_c": 11,
+    "_n": 93
+  },
+  {
+    "ar": "الشرح",
+    "en": "The Consolation",
+    "_a": "Ash-Sharh",
+    "_l": "Meccan",
+    "_c": 8,
+    "_n": 94
+  },
+  {
+    "ar": "التين",
+    "en": "The Fig",
+    "_a": "At-Tin",
+    "_l": "Meccan",
+    "_c": 8,
+    "_n": 95
+  },
+  {
+    "ar": "العلق",
+    "en": "The Clot",
+    "_a": "Al-Alaq",
+    "_l": "Meccan",
+    "_c": 19,
+    "_n": 96
+  },
+  {
+    "ar": "القدر",
+    "en": "The Power, Fate",
+    "_a": "Al-Qadr",
+    "_l": "Meccan",
+    "_c": 5,
+    "_n": 97
+  },
+  {
+    "ar": "البيّنة",
+    "en": "The Evidence",
+    "_a": "Al-Bayyina",
+    "_l": "Medinan",
+    "_c": 8,
+    "_n": 98
+  },
+  {
+    "ar": "الزلزلة",
+    "en": "The Earthquake",
+    "_a": "Az-Zalzala",
+    "_l": "Medinan",
+    "_c": 8,
+    "_n": 99
+  },
+  {
+    "ar": "العاديات",
+    "en": "The Chargers",
+    "_a": "Al-Aadiyaat",
+    "_l": "Meccan",
+    "_c": 11,
+    "_n": 100
+  },
+  {
+    "ar": "القارعة",
+    "en": "The Calamity",
+    "_a": "Al-Qaari'a",
+    "_l": "Meccan",
+    "_c": 11,
+    "_n": 101
+  },
+  {
+    "ar": "التكاثر",
+    "en": "Competition",
+    "_a": "At-Takaathur",
+    "_l": "Meccan",
+    "_c": 8,
+    "_n": 102
+  },
+  {
+    "ar": "العصر",
+    "en": "The Declining Day, Epoch",
+    "_a": "Al-Asr",
+    "_l": "Meccan",
+    "_c": 3,
+    "_n": 103
+  },
+  {
+    "ar": "الهمزة",
+    "en": "The Traducer",
+    "_a": "Al-Humaza",
+    "_l": "Meccan",
+    "_c": 9,
+    "_n": 104
+  },
+  {
+    "ar": "الفيل",
+    "en": "The Elephant",
+    "_a": "Al-Fil",
+    "_l": "Meccan",
+    "_c": 5,
+    "_n": 105
+  },
+  {
+    "ar": "قريش",
+    "en": "Quraysh",
+    "_a": "Quraish",
+    "_l": "Meccan",
+    "_c": 4,
+    "_n": 106
+  },
+  {
+    "ar": "الماعون",
+    "en": "Almsgiving",
+    "_a": "Al-Maa'un",
+    "_l": "Meccan",
+    "_c": 7,
+    "_n": 107
+  },
+  {
+    "ar": "الكوثر",
+    "en": "Abundance",
+    "_a": "Al-Kawthar",
+    "_l": "Meccan",
+    "_c": 3,
+    "_n": 108
+  },
+  {
+    "ar": "الكافرون",
+    "en": "The Disbelievers",
+    "_a": "Al-Kaafiroon",
+    "_l": "Meccan",
+    "_c": 6,
+    "_n": 109
+  },
+  {
+    "ar": "النصر",
+    "en": "Divine Support",
+    "_a": "An-Nasr",
+    "_l": "Medinan",
+    "_c": 3,
+    "_n": 110
+  },
+  {
+    "ar": "المسد",
+    "en": "The Palm Fibre",
+    "_a": "Al-Masad",
+    "_l": "Meccan",
+    "_c": 5,
+    "_n": 111
+  },
+  {
+    "ar": "الإخلاص",
+    "en": "Sincerity",
+    "_a": "Al-Ikhlaas",
+    "_l": "Meccan",
+    "_c": 4,
+    "_n": 112
+  },
+  {
+    "ar": "الفلق",
+    "en": "The Dawn",
+    "_a": "Al-Falaq",
+    "_l": "Meccan",
+    "_c": 5,
+    "_n": 113
+  },
+  {
+    "ar": "الناس",
+    "en": "Mankind",
+    "_a": "An-Naas",
+    "_l": "Meccan",
+    "_c": 6,
+    "_n": 114
+  }
+]

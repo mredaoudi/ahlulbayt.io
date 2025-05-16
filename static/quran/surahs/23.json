@@ -1,0 +1,600 @@
+{
+  "ar": "المؤمنون",
+  "en": "The Believers",
+  "_a": "Al-Muminoon",
+  "_l": "Meccan",
+  "_v": [
+    {
+      "ar": "قَدْ أَفْلَحَ ٱلْمُؤْمِنُونَ",
+      "en": "Certainly, the faithful have attained salvation",
+      "_n": 1
+    },
+    {
+      "ar": "ٱلَّذِينَ هُمْ فِى صَلَاتِهِمْ خَـٰشِعُونَ",
+      "en": "—those who are humble in their prayers,",
+      "_n": 2
+    },
+    {
+      "ar": "وَٱلَّذِينَ هُمْ عَنِ ٱللَّغْوِ مُعْرِضُونَ",
+      "en": "avoid vain talk,",
+      "_n": 3
+    },
+    {
+      "ar": "وَٱلَّذِينَ هُمْ لِلزَّكَوٰةِ فَـٰعِلُونَ",
+      "en": "carry out their [duty of] zakat,",
+      "_n": 4
+    },
+    {
+      "ar": "وَٱلَّذِينَ هُمْ لِفُرُوجِهِمْ حَـٰفِظُونَ",
+      "en": "guard their private parts,",
+      "_n": 5
+    },
+    {
+      "ar": "إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَـٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+      "en": "(except from their spouses or their slave women, for then they are not blameworthy;",
+      "_n": 6
+    },
+    {
+      "ar": "فَمَنِ ٱبْتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْعَادُونَ",
+      "en": "but whoever seeks [anything] beyond that—it is they who are transgressors),",
+      "_n": 7
+    },
+    {
+      "ar": "وَٱلَّذِينَ هُمْ لِأَمَـٰنَـٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
+      "en": "and those who keep their trusts and covenants",
+      "_n": 8
+    },
+    {
+      "ar": "وَٱلَّذِينَ هُمْ عَلَىٰ صَلَوَٰتِهِمْ يُحَافِظُونَ",
+      "en": "and are watchful of their prayers.",
+      "_n": 9
+    },
+    {
+      "ar": "أُو۟لَـٰٓئِكَ هُمُ ٱلْوَٰرِثُونَ",
+      "en": "It is they who will be the inheritors,",
+      "_n": 10
+    },
+    {
+      "ar": "ٱلَّذِينَ يَرِثُونَ ٱلْفِرْدَوْسَ هُمْ فِيهَا خَـٰلِدُونَ",
+      "en": "who shall inherit paradise and will remain in it [forever].",
+      "_n": 11
+    },
+    {
+      "ar": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ مِن سُلَـٰلَةٍ مِّن طِينٍ",
+      "en": "Certainly We created man from an extract of clay.",
+      "_n": 12
+    },
+    {
+      "ar": "ثُمَّ جَعَلْنَـٰهُ نُطْفَةً فِى قَرَارٍ مَّكِينٍ",
+      "en": "Then We made him a drop of [seminal] fluid [lodged] in a secure abode.",
+      "_n": 13
+    },
+    {
+      "ar": "ثُمَّ خَلَقْنَا ٱلنُّطْفَةَ عَلَقَةً فَخَلَقْنَا ٱلْعَلَقَةَ مُضْغَةً فَخَلَقْنَا ٱلْمُضْغَةَ عِظَـٰمًا فَكَسَوْنَا ٱلْعِظَـٰمَ لَحْمًا ثُمَّ أَنشَأْنَـٰهُ خَلْقًا ءَاخَرَ ۚ فَتَبَارَكَ ٱللَّهُ أَحْسَنُ ٱلْخَـٰلِقِينَ",
+      "en": "Then We created the drop of fluid as a clinging mass. Then We created the clinging mass as a fleshy tissue. Then We created the fleshy tissue as bones. Then We clothed the bones with flesh. Then We produced him as [yet] another creature. So blessed is Allah, the best of creators!",
+      "_n": 14
+    },
+    {
+      "ar": "ثُمَّ إِنَّكُم بَعْدَ ذَٰلِكَ لَمَيِّتُونَ",
+      "en": "Then indeed you die after that.",
+      "_n": 15
+    },
+    {
+      "ar": "ثُمَّ إِنَّكُمْ يَوْمَ ٱلْقِيَـٰمَةِ تُبْعَثُونَ",
+      "en": "Then you will indeed be raised up on the Day of Resurrection.",
+      "_n": 16
+    },
+    {
+      "ar": "وَلَقَدْ خَلَقْنَا فَوْقَكُمْ سَبْعَ طَرَآئِقَ وَمَا كُنَّا عَنِ ٱلْخَلْقِ غَـٰفِلِينَ",
+      "en": "Certainly We created above you seven levels and We have not been oblivious of the creation.",
+      "_n": 17
+    },
+    {
+      "ar": "وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءًۢ بِقَدَرٍ فَأَسْكَنَّـٰهُ فِى ٱلْأَرْضِ ۖ وَإِنَّا عَلَىٰ ذَهَابٍۭ بِهِۦ لَقَـٰدِرُونَ",
+      "en": "We sent down water from the sky in a measured manner, and We lodged it within the ground, and We are indeed able to take it away.",
+      "_n": 18
+    },
+    {
+      "ar": "فَأَنشَأْنَا لَكُم بِهِۦ جَنَّـٰتٍ مِّن نَّخِيلٍ وَأَعْنَـٰبٍ لَّكُمْ فِيهَا فَوَٰكِهُ كَثِيرَةٌ وَمِنْهَا تَأْكُلُونَ",
+      "en": "Then with it We produced for you gardens of date palms and vines. There are abundant fruits in them for you, and you eat from them,",
+      "_n": 19
+    },
+    {
+      "ar": "وَشَجَرَةً تَخْرُجُ مِن طُورِ سَيْنَآءَ تَنۢبُتُ بِٱلدُّهْنِ وَصِبْغٍ لِّلْـَٔاكِلِينَ",
+      "en": "and a tree that grows on Mount Sinai, which produces oil and a seasoning for those who eat.",
+      "_n": 20
+    },
+    {
+      "ar": "وَإِنَّ لَكُمْ فِى ٱلْأَنْعَـٰمِ لَعِبْرَةً ۖ نُّسْقِيكُم مِّمَّا فِى بُطُونِهَا وَلَكُمْ فِيهَا مَنَـٰفِعُ كَثِيرَةٌ وَمِنْهَا تَأْكُلُونَ",
+      "en": "There is indeed a moral for you in the cattle: We give you to drink of that which is in their bellies, and you have many uses in them, and you eat some of them,",
+      "_n": 21
+    },
+    {
+      "ar": "وَعَلَيْهَا وَعَلَى ٱلْفُلْكِ تُحْمَلُونَ",
+      "en": "and you are carried on them and on ships.",
+      "_n": 22
+    },
+    {
+      "ar": "وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُهُۥٓ ۖ أَفَلَا تَتَّقُونَ",
+      "en": "Certainly We sent Noah to his people, and he said, ‘O my people! Worship Allah! You have no other god besides Him. Will you not then be wary [of Him]?’",
+      "_n": 23
+    },
+    {
+      "ar": "فَقَالَ ٱلْمَلَؤُا۟ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ مَا هَـٰذَآ إِلَّا بَشَرٌ مِّثْلُكُمْ يُرِيدُ أَن يَتَفَضَّلَ عَلَيْكُمْ وَلَوْ شَآءَ ٱللَّهُ لَأَنزَلَ مَلَـٰٓئِكَةً مَّا سَمِعْنَا بِهَـٰذَا فِىٓ ءَابَآئِنَا ٱلْأَوَّلِينَ",
+      "en": "But the elite of the faithless from among his people said, ‘This is just a human being like you, who seeks to dominate you. Had Allah wished, He would have sent down angels. We never heard of such a thing among our forefathers.",
+      "_n": 24
+    },
+    {
+      "ar": "إِنْ هُوَ إِلَّا رَجُلٌۢ بِهِۦ جِنَّةٌ فَتَرَبَّصُوا۟ بِهِۦ حَتَّىٰ حِينٍ",
+      "en": "He is just a man possessed by madness. So bear with him for a while.’",
+      "_n": 25
+    },
+    {
+      "ar": "قَالَ رَبِّ ٱنصُرْنِى بِمَا كَذَّبُونِ",
+      "en": "He said, ‘My Lord! Help me, for they impugn me.’",
+      "_n": 26
+    },
+    {
+      "ar": "فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ ۙ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ مِنْهُمْ ۖ وَلَا تُخَـٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ ۖ إِنَّهُم مُّغْرَقُونَ",
+      "en": "So We revealed to him: ‘Build the ark before Our eyes and by Our revelation. When Our edict comes and the oven gushes [a stream of water], bring into it a pair of every kind [of animal], and your family, except those of them against whom the decree has gone beforehand, and do not plead with Me for those who are wrongdoers: they shall indeed be drowned.’",
+      "_n": 27
+    },
+    {
+      "ar": "فَإِذَا ٱسْتَوَيْتَ أَنتَ وَمَن مَّعَكَ عَلَى ٱلْفُلْكِ فَقُلِ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى نَجَّىٰنَا مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+      "en": "‘When you, and those who are with you, are settled in the ark, say, ‘‘All praise belongs to Allah, who has delivered us from the wrongdoing lot.’’",
+      "_n": 28
+    },
+    {
+      "ar": "وَقُل رَّبِّ أَنزِلْنِى مُنزَلًا مُّبَارَكًا وَأَنتَ خَيْرُ ٱلْمُنزِلِينَ",
+      "en": "And say, ‘‘My Lord! Land me with a blessed landing, for You are the best of those who bring ashore.’’ ’",
+      "_n": 29
+    },
+    {
+      "ar": "إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ وَإِن كُنَّا لَمُبْتَلِينَ",
+      "en": "There are indeed signs in this; and indeed, We have been testing.",
+      "_n": 30
+    },
+    {
+      "ar": "ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ قَرْنًا ءَاخَرِينَ",
+      "en": "Then after them We brought forth another generation,",
+      "_n": 31
+    },
+    {
+      "ar": "فَأَرْسَلْنَا فِيهِمْ رَسُولًا مِّنْهُمْ أَنِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُهُۥٓ ۖ أَفَلَا تَتَّقُونَ",
+      "en": "and We sent them an apostle from among themselves, saying, ‘Worship Allah! You have no other god besides Him. Will you not then be wary [of Him]?’",
+      "_n": 32
+    },
+    {
+      "ar": "وَقَالَ ٱلْمَلَأُ مِن قَوْمِهِ ٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِلِقَآءِ ٱلْـَٔاخِرَةِ وَأَتْرَفْنَـٰهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا مَا هَـٰذَآ إِلَّا بَشَرٌ مِّثْلُكُمْ يَأْكُلُ مِمَّا تَأْكُلُونَ مِنْهُ وَيَشْرَبُ مِمَّا تَشْرَبُونَ",
+      "en": "Said the elite of his people, who were faithless and who denied the encounter of the Hereafter and whom We had given affluence in the life of the world: ‘This is just a human being like yourselves: he eats what you eat, and drinks what you drink.",
+      "_n": 33
+    },
+    {
+      "ar": "وَلَئِنْ أَطَعْتُم بَشَرًا مِّثْلَكُمْ إِنَّكُمْ إِذًا لَّخَـٰسِرُونَ",
+      "en": "If you obey a human being like yourselves, you will indeed be losers.",
+      "_n": 34
+    },
+    {
+      "ar": "أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَـٰمًا أَنَّكُم مُّخْرَجُونَ",
+      "en": "Does he promise you that when you have died and become bones and dust you will indeed be raised [from the dead]?",
+      "_n": 35
+    },
+    {
+      "ar": "هَيْهَاتَ هَيْهَاتَ لِمَا تُوعَدُونَ",
+      "en": "Far-fetched, far-fetched is what you are promised!",
+      "_n": 36
+    },
+    {
+      "ar": "إِنْ هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ",
+      "en": "There is nothing but the life of this world: we live and die, and we will not be resurrected.",
+      "_n": 37
+    },
+    {
+      "ar": "إِنْ هُوَ إِلَّا رَجُلٌ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا وَمَا نَحْنُ لَهُۥ بِمُؤْمِنِينَ",
+      "en": "He is just a man who has fabricated a lie against Allah, and we will not believe in him.’",
+      "_n": 38
+    },
+    {
+      "ar": "قَالَ رَبِّ ٱنصُرْنِى بِمَا كَذَّبُونِ",
+      "en": "He said, ‘My Lord! Help me, for they impugn me.’",
+      "_n": 39
+    },
+    {
+      "ar": "قَالَ عَمَّا قَلِيلٍ لَّيُصْبِحُنَّ نَـٰدِمِينَ",
+      "en": "Said He, ‘In a little while they will become regretful.’",
+      "_n": 40
+    },
+    {
+      "ar": "فَأَخَذَتْهُمُ ٱلصَّيْحَةُ بِٱلْحَقِّ فَجَعَلْنَـٰهُمْ غُثَآءً ۚ فَبُعْدًا لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
+      "en": "So the Cry seized them justly and We turned them into a scum. So away with the wrongdoing lot!",
+      "_n": 41
+    },
+    {
+      "ar": "ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ قُرُونًا ءَاخَرِينَ",
+      "en": "Then after them We brought forth other generations.",
+      "_n": 42
+    },
+    {
+      "ar": "مَا تَسْبِقُ مِنْ أُمَّةٍ أَجَلَهَا وَمَا يَسْتَـْٔخِرُونَ",
+      "en": "No nation can advance its time nor can it defer it.",
+      "_n": 43
+    },
+    {
+      "ar": "ثُمَّ أَرْسَلْنَا رُسُلَنَا تَتْرَا ۖ كُلَّ مَا جَآءَ أُمَّةً رَّسُولُهَا كَذَّبُوهُ ۚ فَأَتْبَعْنَا بَعْضَهُم بَعْضًا وَجَعَلْنَـٰهُمْ أَحَادِيثَ ۚ فَبُعْدًا لِّقَوْمٍ لَّا يُؤْمِنُونَ",
+      "en": "Then We sent Our apostles successively. Whenever there came to a nation its apostle, they impugned him, so We made them follow one another [to extinction] and We turned them into folktales. So away with the faithless lot!",
+      "_n": 44
+    },
+    {
+      "ar": "ثُمَّ أَرْسَلْنَا مُوسَىٰ وَأَخَاهُ هَـٰرُونَ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍ مُّبِينٍ",
+      "en": "Then We sent Moses and Aaron, his brother, with Our signs and a manifest authority",
+      "_n": 45
+    },
+    {
+      "ar": "إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا عَالِينَ",
+      "en": "to Pharaoh and his elites; but they acted arrogantly and they were a tyrannical lot.",
+      "_n": 46
+    },
+    {
+      "ar": "فَقَالُوٓا۟ أَنُؤْمِنُ لِبَشَرَيْنِ مِثْلِنَا وَقَوْمُهُمَا لَنَا عَـٰبِدُونَ",
+      "en": "They said, ‘Shall we believe two humans like ourselves, while their people are our slaves?’",
+      "_n": 47
+    },
+    {
+      "ar": "فَكَذَّبُوهُمَا فَكَانُوا۟ مِنَ ٱلْمُهْلَكِينَ",
+      "en": "So they impugned the two of them, whereat they were among those who were destroyed.",
+      "_n": 48
+    },
+    {
+      "ar": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ لَعَلَّهُمْ يَهْتَدُونَ",
+      "en": "Certainly We gave Moses the Book so that they might be guided,",
+      "_n": 49
+    },
+    {
+      "ar": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةً وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ",
+      "en": "and We made the son of Mary and his mother a sign, and sheltered them in a level highland with flowing water.",
+      "_n": 50
+    },
+    {
+      "ar": "يَـٰٓأَيُّهَا ٱلرُّسُلُ كُلُوا۟ مِنَ ٱلطَّيِّبَـٰتِ وَٱعْمَلُوا۟ صَـٰلِحًا ۖ إِنِّى بِمَا تَعْمَلُونَ عَلِيمٌ",
+      "en": "O apostles! Eat of the good things and act righteously. Indeed I know best what you do.",
+      "_n": 51
+    },
+    {
+      "ar": "وَإِنَّ هَـٰذِهِۦٓ أُمَّتُكُمْ أُمَّةً وَٰحِدَةً وَأَنَا۠ رَبُّكُمْ فَٱتَّقُونِ",
+      "en": "Indeed this community of yours is one community, and I am your Lord, so be wary of Me.",
+      "_n": 52
+    },
+    {
+      "ar": "فَتَقَطَّعُوٓا۟ أَمْرَهُم بَيْنَهُمْ زُبُرًا ۖ كُلُّ حِزْبٍۭ بِمَا لَدَيْهِمْ فَرِحُونَ",
+      "en": "But they fragmented their religion among themselves, each party boasting about what it had.",
+      "_n": 53
+    },
+    {
+      "ar": "فَذَرْهُمْ فِى غَمْرَتِهِمْ حَتَّىٰ حِينٍ",
+      "en": "So leave them in their stupor for a while.",
+      "_n": 54
+    },
+    {
+      "ar": "أَيَحْسَبُونَ أَنَّمَا نُمِدُّهُم بِهِۦ مِن مَّالٍ وَبَنِينَ",
+      "en": "Do they suppose that whatever aid We provide them in regard to wealth and children [is because]",
+      "_n": 55
+    },
+    {
+      "ar": "نُسَارِعُ لَهُمْ فِى ٱلْخَيْرَٰتِ ۚ بَل لَّا يَشْعُرُونَ",
+      "en": "We are eager to bring them good? No, they are not aware!",
+      "_n": 56
+    },
+    {
+      "ar": "إِنَّ ٱلَّذِينَ هُم مِّنْ خَشْيَةِ رَبِّهِم مُّشْفِقُونَ",
+      "en": "Indeed those who are apprehensive for the fear of their Lord,",
+      "_n": 57
+    },
+    {
+      "ar": "وَٱلَّذِينَ هُم بِـَٔايَـٰتِ رَبِّهِمْ يُؤْمِنُونَ",
+      "en": "and believe in the signs of their Lord,",
+      "_n": 58
+    },
+    {
+      "ar": "وَٱلَّذِينَ هُم بِرَبِّهِمْ لَا يُشْرِكُونَ",
+      "en": "and do not ascribe partners to their Lord;",
+      "_n": 59
+    },
+    {
+      "ar": "وَٱلَّذِينَ يُؤْتُونَ مَآ ءَاتَوا۟ وَّقُلُوبُهُمْ وَجِلَةٌ أَنَّهُمْ إِلَىٰ رَبِّهِمْ رَٰجِعُونَ",
+      "en": "who give whatever they give while their hearts tremble with awe that they are going to return to their Lord",
+      "_n": 60
+    },
+    {
+      "ar": "أُو۟لَـٰٓئِكَ يُسَـٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَهُمْ لَهَا سَـٰبِقُونَ",
+      "en": "—it is they who are zealous in [performing] good works and take the lead in them.",
+      "_n": 61
+    },
+    {
+      "ar": "وَلَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا ۖ وَلَدَيْنَا كِتَـٰبٌ يَنطِقُ بِٱلْحَقِّ ۚ وَهُمْ لَا يُظْلَمُونَ",
+      "en": "We task no soul except according to its capacity, and with Us is a book that speaks the truth, and they will not be wronged.",
+      "_n": 62
+    },
+    {
+      "ar": "بَلْ قُلُوبُهُمْ فِى غَمْرَةٍ مِّنْ هَـٰذَا وَلَهُمْ أَعْمَـٰلٌ مِّن دُونِ ذَٰلِكَ هُمْ لَهَا عَـٰمِلُونَ",
+      "en": "Indeed, their hearts are in a stupor in regard to this, and there are other deeds besides which they perpetrate.",
+      "_n": 63
+    },
+    {
+      "ar": "حَتَّىٰٓ إِذَآ أَخَذْنَا مُتْرَفِيهِم بِٱلْعَذَابِ إِذَا هُمْ يَجْـَٔرُونَ",
+      "en": "When We seize their affluent ones with punishment, behold, they make entreaties [to Us].",
+      "_n": 64
+    },
+    {
+      "ar": "لَا تَجْـَٔرُوا۟ ٱلْيَوْمَ ۖ إِنَّكُم مِّنَّا لَا تُنصَرُونَ",
+      "en": "‘Do not make entreaties today! Indeed, you will not receive any help from Us.",
+      "_n": 65
+    },
+    {
+      "ar": "قَدْ كَانَتْ ءَايَـٰتِى تُتْلَىٰ عَلَيْكُمْ فَكُنتُمْ عَلَىٰٓ أَعْقَـٰبِكُمْ تَنكِصُونَ",
+      "en": "Certainly My signs used to be recited to you, but you used to take to your heels,",
+      "_n": 66
+    },
+    {
+      "ar": "مُسْتَكْبِرِينَ بِهِۦ سَـٰمِرًا تَهْجُرُونَ",
+      "en": "being disdainful of it, talking nonsense in your nightly sessions.’",
+      "_n": 67
+    },
+    {
+      "ar": "أَفَلَمْ يَدَّبَّرُوا۟ ٱلْقَوْلَ أَمْ جَآءَهُم مَّا لَمْ يَأْتِ ءَابَآءَهُمُ ٱلْأَوَّلِينَ",
+      "en": "Have they not contemplated the Discourse, or has anything come to them [in it] that did not come to their forefathers?",
+      "_n": 68
+    },
+    {
+      "ar": "أَمْ لَمْ يَعْرِفُوا۟ رَسُولَهُمْ فَهُمْ لَهُۥ مُنكِرُونَ",
+      "en": "Is it that they do not recognize their apostle, and so they deny him?",
+      "_n": 69
+    },
+    {
+      "ar": "أَمْ يَقُولُونَ بِهِۦ جِنَّةٌۢ ۚ بَلْ جَآءَهُم بِٱلْحَقِّ وَأَكْثَرُهُمْ لِلْحَقِّ كَـٰرِهُونَ",
+      "en": "Do they say, ‘There is madness in him’? No, he has brought them the truth, and most of them are averse to the truth.",
+      "_n": 70
+    },
+    {
+      "ar": "وَلَوِ ٱتَّبَعَ ٱلْحَقُّ أَهْوَآءَهُمْ لَفَسَدَتِ ٱلسَّمَـٰوَٰتُ وَٱلْأَرْضُ وَمَن فِيهِنَّ ۚ بَلْ أَتَيْنَـٰهُم بِذِكْرِهِمْ فَهُمْ عَن ذِكْرِهِم مُّعْرِضُونَ",
+      "en": "Had the truth followed their desires, the heavens and the earth would have surely fallen apart [along] with those who are in them. Indeed, We have brought them their Reminder, but they are disregardful of their Reminder.",
+      "_n": 71
+    },
+    {
+      "ar": "أَمْ تَسْـَٔلُهُمْ خَرْجًا فَخَرَاجُ رَبِّكَ خَيْرٌ ۖ وَهُوَ خَيْرُ ٱلرَّٰزِقِينَ",
+      "en": "Do you ask a recompense from them? Your Lord’s recompense is better, and He is the best of providers.",
+      "_n": 72
+    },
+    {
+      "ar": "وَإِنَّكَ لَتَدْعُوهُمْ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "en": "Indeed you invite them to a straight path,",
+      "_n": 73
+    },
+    {
+      "ar": "وَإِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ عَنِ ٱلصِّرَٰطِ لَنَـٰكِبُونَ",
+      "en": "and those who do not believe in the Hereafter surely deviate from the path.",
+      "_n": 74
+    },
+    {
+      "ar": "وَلَوْ رَحِمْنَـٰهُمْ وَكَشَفْنَا مَا بِهِم مِّن ضُرٍّ لَّلَجُّوا۟ فِى طُغْيَـٰنِهِمْ يَعْمَهُونَ",
+      "en": "Should We have mercy upon them and remove their distress, they would surely persist, bewildered in their rebellion.",
+      "_n": 75
+    },
+    {
+      "ar": "وَلَقَدْ أَخَذْنَـٰهُم بِٱلْعَذَابِ فَمَا ٱسْتَكَانُوا۟ لِرَبِّهِمْ وَمَا يَتَضَرَّعُونَ",
+      "en": "We have already seized them with punishment, yet they did not humble themselves before their Lord, nor will they entreat [Him for mercy]",
+      "_n": 76
+    },
+    {
+      "ar": "حَتَّىٰٓ إِذَا فَتَحْنَا عَلَيْهِم بَابًا ذَا عَذَابٍ شَدِيدٍ إِذَا هُمْ فِيهِ مُبْلِسُونَ",
+      "en": "until We open on them the gate of a severe punishment, whereupon they will be despondent in it.",
+      "_n": 77
+    },
+    {
+      "ar": "وَهُوَ ٱلَّذِىٓ أَنشَأَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًا مَّا تَشْكُرُونَ",
+      "en": "It is He who made for you hearing, eyesight, and hearts. Little do you thank.",
+      "_n": 78
+    },
+    {
+      "ar": "وَهُوَ ٱلَّذِى ذَرَأَكُمْ فِى ٱلْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ",
+      "en": "It is He who created you on the earth, and you will be mustered toward Him.",
+      "_n": 79
+    },
+    {
+      "ar": "وَهُوَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ وَلَهُ ٱخْتِلَـٰفُ ٱلَّيْلِ وَٱلنَّهَارِ ۚ أَفَلَا تَعْقِلُونَ",
+      "en": "And it is He who gives life and brings death, and due to Him is the alternation of day and night. Do you not exercise your reason?",
+      "_n": 80
+    },
+    {
+      "ar": "بَلْ قَالُوا۟ مِثْلَ مَا قَالَ ٱلْأَوَّلُونَ",
+      "en": "Indeed, they say, just like what the former peoples said.",
+      "_n": 81
+    },
+    {
+      "ar": "قَالُوٓا۟ أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَـٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+      "en": "They said, ‘What, when we are dead and become dust and bones, shall we be resurrected?",
+      "_n": 82
+    },
+    {
+      "ar": "لَقَدْ وُعِدْنَا نَحْنُ وَءَابَآؤُنَا هَـٰذَا مِن قَبْلُ إِنْ هَـٰذَآ إِلَّآ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+      "en": "Certainly, we and our fathers were promised this before. [But] these are nothing but myths of the ancients.’",
+      "_n": 83
+    },
+    {
+      "ar": "قُل لِّمَنِ ٱلْأَرْضُ وَمَن فِيهَآ إِن كُنتُمْ تَعْلَمُونَ",
+      "en": "Say, ‘To whom does the earth belong and whoever it contains, if you know?’",
+      "_n": 84
+    },
+    {
+      "ar": "سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَذَكَّرُونَ",
+      "en": "They will say, ‘To Allah.’ Say, ‘Will you not then take admonition?’",
+      "_n": 85
+    },
+    {
+      "ar": "قُلْ مَن رَّبُّ ٱلسَّمَـٰوَٰتِ ٱلسَّبْعِ وَرَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ",
+      "en": "Say, ‘Who is the Lord of the seven heavens and the Lord of the Great Throne?’",
+      "_n": 86
+    },
+    {
+      "ar": "سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَتَّقُونَ",
+      "en": "They will say, ‘[They belong] to Allah.’ Say, ‘Will you not then be wary [of Him]?’",
+      "_n": 87
+    },
+    {
+      "ar": "قُلْ مَنۢ بِيَدِهِۦ مَلَكُوتُ كُلِّ شَىْءٍ وَهُوَ يُجِيرُ وَلَا يُجَارُ عَلَيْهِ إِن كُنتُمْ تَعْلَمُونَ",
+      "en": "Say, ‘In whose hand is the dominion of all things, and who gives shelter and no shelter can be provided from Him, if you know?’",
+      "_n": 88
+    },
+    {
+      "ar": "سَيَقُولُونَ لِلَّهِ ۚ قُلْ فَأَنَّىٰ تُسْحَرُونَ",
+      "en": "They will say, ‘[They all belong] to Allah.’ Say, ‘Then how are you so deluded?’",
+      "_n": 89
+    },
+    {
+      "ar": "بَلْ أَتَيْنَـٰهُم بِٱلْحَقِّ وَإِنَّهُمْ لَكَـٰذِبُونَ",
+      "en": "Indeed, We have brought them the truth, and they are indeed liars.",
+      "_n": 90
+    },
+    {
+      "ar": "مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدٍ وَمَا كَانَ مَعَهُۥ مِنْ إِلَـٰهٍ ۚ إِذًا لَّذَهَبَ كُلُّ إِلَـٰهٍۭ بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍ ۚ سُبْحَـٰنَ ٱللَّهِ عَمَّا يَصِفُونَ",
+      "en": "Allah has not taken any offspring, neither is there any god besides Him, for then each god would take away what he created, and some of them would surely rise up against others. Clear is Allah of what they allege!",
+      "_n": 91
+    },
+    {
+      "ar": "عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ",
+      "en": "The Knower of the sensible and the Unseen, He is above having any partners that they ascribe [to Him].",
+      "_n": 92
+    },
+    {
+      "ar": "قُل رَّبِّ إِمَّا تُرِيَنِّى مَا يُوعَدُونَ",
+      "en": "Say, ‘My Lord! If You should show me what they are promised,",
+      "_n": 93
+    },
+    {
+      "ar": "رَبِّ فَلَا تَجْعَلْنِى فِى ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+      "en": "then do not put me, my Lord, among the wrongdoing lot.’",
+      "_n": 94
+    },
+    {
+      "ar": "وَإِنَّا عَلَىٰٓ أَن نُّرِيَكَ مَا نَعِدُهُمْ لَقَـٰدِرُونَ",
+      "en": "We are indeed able to show you what We promise them.",
+      "_n": 95
+    },
+    {
+      "ar": "ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ ٱلسَّيِّئَةَ ۚ نَحْنُ أَعْلَمُ بِمَا يَصِفُونَ",
+      "en": "Repel ill [conduct] with that which is the best. We know best whatever they allege.",
+      "_n": 96
+    },
+    {
+      "ar": "وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَٰتِ ٱلشَّيَـٰطِينِ",
+      "en": "Say, ‘My Lord! I seek Your protection from the promptings of devils,",
+      "_n": 97
+    },
+    {
+      "ar": "وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ",
+      "en": "and I seek Your protection, my Lord, from their presence near me.’",
+      "_n": 98
+    },
+    {
+      "ar": "حَتَّىٰٓ إِذَا جَآءَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ رَبِّ ٱرْجِعُونِ",
+      "en": "When death comes to one of them, he says, ‘My Lord! Take me back,",
+      "_n": 99
+    },
+    {
+      "ar": "لَعَلِّىٓ أَعْمَلُ صَـٰلِحًا فِيمَا تَرَكْتُ ۚ كَلَّآ ۚ إِنَّهَا كَلِمَةٌ هُوَ قَآئِلُهَا ۖ وَمِن وَرَآئِهِم بَرْزَخٌ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+      "en": "that I may act righteously in what I have left behind.’ ‘By no means! These are mere words that he says.’ And before them is a barrier until the day they will be resurrected.",
+      "_n": 100
+    },
+    {
+      "ar": "فَإِذَا نُفِخَ فِى ٱلصُّورِ فَلَآ أَنسَابَ بَيْنَهُمْ يَوْمَئِذٍ وَلَا يَتَسَآءَلُونَ",
+      "en": "When the Trumpet is blown, there will be no ties between them on that day, nor will they ask [about] each other.",
+      "_n": 101
+    },
+    {
+      "ar": "فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+      "en": "Then those whose deeds weigh heavy in the scales—it is they who are the felicitous.",
+      "_n": 102
+    },
+    {
+      "ar": "وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ فَأُو۟لَـٰٓئِكَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فِى جَهَنَّمَ خَـٰلِدُونَ",
+      "en": "As for those whose deeds weigh light in the scales—they will be the ones who have ruined their souls, and they will remain in hell [forever].",
+      "_n": 103
+    },
+    {
+      "ar": "تَلْفَحُ وُجُوهَهُمُ ٱلنَّارُ وَهُمْ فِيهَا كَـٰلِحُونَ",
+      "en": "The Fire will scorch their faces, while they snarl baring their teeth.",
+      "_n": 104
+    },
+    {
+      "ar": "أَلَمْ تَكُنْ ءَايَـٰتِى تُتْلَىٰ عَلَيْكُمْ فَكُنتُم بِهَا تُكَذِّبُونَ",
+      "en": "‘Was it not that My signs were recited to you but you would deny them?’",
+      "_n": 105
+    },
+    {
+      "ar": "قَالُوا۟ رَبَّنَا غَلَبَتْ عَلَيْنَا شِقْوَتُنَا وَكُنَّا قَوْمًا ضَآلِّينَ",
+      "en": "They will say, ‘Our Lord! Our wretchedness overcame us, and we were an astray lot.",
+      "_n": 106
+    },
+    {
+      "ar": "رَبَّنَآ أَخْرِجْنَا مِنْهَا فَإِنْ عُدْنَا فَإِنَّا ظَـٰلِمُونَ",
+      "en": "Our Lord! Bring us out of this! Then, if we revert [to our previous conduct], we will indeed be wrongdoers.’",
+      "_n": 107
+    },
+    {
+      "ar": "قَالَ ٱخْسَـُٔوا۟ فِيهَا وَلَا تُكَلِّمُونِ",
+      "en": "He will say, ‘Begone in it, and do not speak to Me!",
+      "_n": 108
+    },
+    {
+      "ar": "إِنَّهُۥ كَانَ فَرِيقٌ مِّنْ عِبَادِى يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلرَّٰحِمِينَ",
+      "en": "Indeed there was a part of My servants who would say, ‘‘Our Lord! We have believed. So forgive us, and have mercy on us, and You are the best of the merciful.’’",
+      "_n": 109
+    },
+    {
+      "ar": "فَٱتَّخَذْتُمُوهُمْ سِخْرِيًّا حَتَّىٰٓ أَنسَوْكُمْ ذِكْرِى وَكُنتُم مِّنْهُمْ تَضْحَكُونَ",
+      "en": "But you took them by ridicule until they made you forget My remembrance, and you used to laugh at them.",
+      "_n": 110
+    },
+    {
+      "ar": "إِنِّى جَزَيْتُهُمُ ٱلْيَوْمَ بِمَا صَبَرُوٓا۟ أَنَّهُمْ هُمُ ٱلْفَآئِزُونَ",
+      "en": "Indeed I have rewarded them today for their patience. They are indeed the triumphant.’",
+      "_n": 111
+    },
+    {
+      "ar": "قَـٰلَ كَمْ لَبِثْتُمْ فِى ٱلْأَرْضِ عَدَدَ سِنِينَ",
+      "en": "He will say, ‘How many years did you remain on earth?’",
+      "_n": 112
+    },
+    {
+      "ar": "قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ فَسْـَٔلِ ٱلْعَآدِّينَ",
+      "en": "They will say, ‘We remained for a day, or part of a day; yet ask those who keep the count.’",
+      "_n": 113
+    },
+    {
+      "ar": "قَـٰلَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًا ۖ لَّوْ أَنَّكُمْ كُنتُمْ تَعْلَمُونَ",
+      "en": "He will say, ‘You only remained a little; if only you had known.",
+      "_n": 114
+    },
+    {
+      "ar": "أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَـٰكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ",
+      "en": "Did you suppose that We created you aimlessly, and that you will not be brought back to Us?’",
+      "_n": 115
+    },
+    {
+      "ar": "فَتَعَـٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْكَرِيمِ",
+      "en": "So exalted is Allah, the True Sovereign, there is no god except Him, the Lord of the Noble Throne.",
+      "_n": 116
+    },
+    {
+      "ar": "وَمَن يَدْعُ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ لَا بُرْهَـٰنَ لَهُۥ بِهِۦ فَإِنَّمَا حِسَابُهُۥ عِندَ رَبِّهِۦٓ ۚ إِنَّهُۥ لَا يُفْلِحُ ٱلْكَـٰفِرُونَ",
+      "en": "Whoever invokes besides Allah another god of which he has no proof, his reckoning will indeed rest with his Lord. Indeed the faithless will not be felicitous.",
+      "_n": 117
+    },
+    {
+      "ar": "وَقُل رَّبِّ ٱغْفِرْ وَٱرْحَمْ وَأَنتَ خَيْرُ ٱلرَّٰحِمِينَ",
+      "en": "Say, ‘My Lord, forgive and have mercy, and You are the best of the merciful.’",
+      "_n": 118
+    }
+  ],
+  "_n": 23,
+  "_c": 118
+}

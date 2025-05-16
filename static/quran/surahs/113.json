@@ -1,0 +1,35 @@
+{
+  "ar": "الفلق",
+  "en": "The Dawn",
+  "_a": "Al-Falaq",
+  "_l": "Meccan",
+  "_v": [
+    {
+      "ar": "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+      "en": "Say, ‘I seek the protection of the Lord of the daybreak",
+      "_n": 1
+    },
+    {
+      "ar": "مِن شَرِّ مَا خَلَقَ",
+      "en": "from the evil of what He has created,",
+      "_n": 2
+    },
+    {
+      "ar": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "en": "and from the evil of the dark night when it falls,",
+      "_n": 3
+    },
+    {
+      "ar": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
+      "en": "and from the evil of the witches, who blow on knots,",
+      "_n": 4
+    },
+    {
+      "ar": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "en": "and from the evil of the envious one when he envies.’",
+      "_n": 5
+    }
+  ],
+  "_n": 113,
+  "_c": 5
+}

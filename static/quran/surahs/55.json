@@ -1,0 +1,400 @@
+{
+  "ar": "الرحمن",
+  "en": "The Beneficent",
+  "_a": "Ar-Rahmaan",
+  "_l": "Medinan",
+  "_v": [
+    {
+      "ar": "ٱلرَّحْمَـٰنُ",
+      "en": "The All-beneficent",
+      "_n": 1
+    },
+    {
+      "ar": "عَلَّمَ ٱلْقُرْءَانَ",
+      "en": "has taught the Quran.",
+      "_n": 2
+    },
+    {
+      "ar": "خَلَقَ ٱلْإِنسَـٰنَ",
+      "en": "He created man,",
+      "_n": 3
+    },
+    {
+      "ar": "عَلَّمَهُ ٱلْبَيَانَ",
+      "en": "[and] taught him articulate speech.",
+      "_n": 4
+    },
+    {
+      "ar": "ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ",
+      "en": "The sun and the moon are [disposed] calculatedly,",
+      "_n": 5
+    },
+    {
+      "ar": "وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ",
+      "en": "and the herb and the tree prostrate [to Allah].",
+      "_n": 6
+    },
+    {
+      "ar": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ",
+      "en": "He raised the heaven high and set up the balance,",
+      "_n": 7
+    },
+    {
+      "ar": "أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ",
+      "en": "declaring, ‘Do not infringe the balance!",
+      "_n": 8
+    },
+    {
+      "ar": "وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ",
+      "en": "Maintain the weights with justice, and do not shorten the balance!’",
+      "_n": 9
+    },
+    {
+      "ar": "وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ",
+      "en": "And the earth—He laid it out for mankind.",
+      "_n": 10
+    },
+    {
+      "ar": "فِيهَا فَـٰكِهَةٌ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ",
+      "en": "In it are fruits and date-palms with sheaths,",
+      "_n": 11
+    },
+    {
+      "ar": "وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ",
+      "en": "grain with husk, and fragrant herbs.",
+      "_n": 12
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 13
+    },
+    {
+      "ar": "خَلَقَ ٱلْإِنسَـٰنَ مِن صَلْصَـٰلٍ كَٱلْفَخَّارِ",
+      "en": "He created man out of dry clay, like the potter’s,",
+      "_n": 14
+    },
+    {
+      "ar": "وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍ مِّن نَّارٍ",
+      "en": "and created the jinn out of a flame of a fire.",
+      "_n": 15
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 16
+    },
+    {
+      "ar": "رَبُّ ٱلْمَشْرِقَيْنِ وَرَبُّ ٱلْمَغْرِبَيْنِ",
+      "en": "Lord of the two easts, and Lord of the two wests!",
+      "_n": 17
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 18
+    },
+    {
+      "ar": "مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ",
+      "en": "He merged the two seas, meeting each other.",
+      "_n": 19
+    },
+    {
+      "ar": "بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ",
+      "en": "There is a barrier between them, which they do not overstep.",
+      "_n": 20
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 21
+    },
+    {
+      "ar": "يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ",
+      "en": "From them emerge the pearl and the coral.",
+      "_n": 22
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 23
+    },
+    {
+      "ar": "وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْأَعْلَـٰمِ",
+      "en": "His are the sailing ships on the sea [appearing] like landmarks.",
+      "_n": 24
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 25
+    },
+    {
+      "ar": "كُلُّ مَنْ عَلَيْهَا فَانٍ",
+      "en": "Everyone on it is ephemeral,",
+      "_n": 26
+    },
+    {
+      "ar": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+      "en": "yet lasting is the majestic and munificent Face of your Lord.",
+      "_n": 27
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 28
+    },
+    {
+      "ar": "يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَأْنٍ",
+      "en": "Everyone in the heavens and the earth asks Him. Every day He is engaged in some work.",
+      "_n": 29
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 30
+    },
+    {
+      "ar": "سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ",
+      "en": "Soon We shall make Ourselves unoccupied for you, O you notable two!",
+      "_n": 31
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 32
+    },
+    {
+      "ar": "يَـٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَـٰنٍ",
+      "en": "O company of jinn and humans! If you can pass through the confines of the heavens and the earth, then do pass through. But you will not pass through except by an authority [from Allah].",
+      "_n": 33
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 34
+    },
+    {
+      "ar": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلَا تَنتَصِرَانِ",
+      "en": "There will be unleashed upon you a flash of fire and a smoke; then you will not be able to help one another.",
+      "_n": 35
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 36
+    },
+    {
+      "ar": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةً كَٱلدِّهَانِ",
+      "en": "When the sky is split open, and turns crimson like tanned leather.",
+      "_n": 37
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 38
+    },
+    {
+      "ar": "فَيَوْمَئِذٍ لَّا يُسْـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌ وَلَا جَآنٌّ",
+      "en": "On that day neither humans will be questioned about their sins nor jinn.",
+      "_n": 39
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 40
+    },
+    {
+      "ar": "يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَـٰهُمْ فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ",
+      "en": "The guilty will be recognized by their mark; so they will be seized by their forelocks and feet.",
+      "_n": 41
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 42
+    },
+    {
+      "ar": "هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ",
+      "en": "‘This is the hell which the guilty would deny!’",
+      "_n": 43
+    },
+    {
+      "ar": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍ",
+      "en": "They shall circuit between it and boiling hot water.",
+      "_n": 44
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 45
+    },
+    {
+      "ar": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+      "en": "For him who stands in awe of his Lord will be two gardens.",
+      "_n": 46
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 47
+    },
+    {
+      "ar": "ذَوَاتَآ أَفْنَانٍ",
+      "en": "Both abounding in branches.",
+      "_n": 48
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 49
+    },
+    {
+      "ar": "فِيهِمَا عَيْنَانِ تَجْرِيَانِ",
+      "en": "In both of them will be two flowing springs.",
+      "_n": 50
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 51
+    },
+    {
+      "ar": "فِيهِمَا مِن كُلِّ فَـٰكِهَةٍ زَوْجَانِ",
+      "en": "In both of them will be two kinds of every fruit.",
+      "_n": 52
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 53
+    },
+    {
+      "ar": "مُتَّكِـِٔينَ عَلَىٰ فُرُشٍۭ بَطَآئِنُهَا مِنْ إِسْتَبْرَقٍ ۚ وَجَنَى ٱلْجَنَّتَيْنِ دَانٍ",
+      "en": "[They will be] reclining on beds lined with green silk. And the fruit of the two gardens will be near at hand.",
+      "_n": 54
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 55
+    },
+    {
+      "ar": "فِيهِنَّ قَـٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ",
+      "en": "In them are maidens of restrained glances, whom no human has touched before, nor jinn.",
+      "_n": 56
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 57
+    },
+    {
+      "ar": "كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ",
+      "en": "As though they were rubies and corals.",
+      "_n": 58
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 59
+    },
+    {
+      "ar": "هَلْ جَزَآءُ ٱلْإِحْسَـٰنِ إِلَّا ٱلْإِحْسَـٰنُ",
+      "en": "Is the requital of goodness anything but goodness?",
+      "_n": 60
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 61
+    },
+    {
+      "ar": "وَمِن دُونِهِمَا جَنَّتَانِ",
+      "en": "Beside these two, there will be two [other] gardens.",
+      "_n": 62
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 63
+    },
+    {
+      "ar": "مُدْهَآمَّتَانِ",
+      "en": "Dark green.",
+      "_n": 64
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 65
+    },
+    {
+      "ar": "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ",
+      "en": "In both of them will be two gushing springs.",
+      "_n": 66
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 67
+    },
+    {
+      "ar": "فِيهِمَا فَـٰكِهَةٌ وَنَخْلٌ وَرُمَّانٌ",
+      "en": "In both of them will be fruits, date-palms and pomegranates.",
+      "_n": 68
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 69
+    },
+    {
+      "ar": "فِيهِنَّ خَيْرَٰتٌ حِسَانٌ",
+      "en": "In them are maidens good and lovely.",
+      "_n": 70
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 71
+    },
+    {
+      "ar": "حُورٌ مَّقْصُورَٰتٌ فِى ٱلْخِيَامِ",
+      "en": "Houris secluded in pavilions.",
+      "_n": 72
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 73
+    },
+    {
+      "ar": "لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ",
+      "en": "Whom no human has touched before, nor jinn.",
+      "_n": 74
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 75
+    },
+    {
+      "ar": "مُتَّكِـِٔينَ عَلَىٰ رَفْرَفٍ خُضْرٍ وَعَبْقَرِىٍّ حِسَانٍ",
+      "en": "Reclining on green cushions and lovely carpets.",
+      "_n": 76
+    },
+    {
+      "ar": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "en": "So which of your Lord’s bounties will you both deny?",
+      "_n": 77
+    },
+    {
+      "ar": "تَبَـٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+      "en": "Blessed is the Name of your Lord, the Majestic and the Munificent!",
+      "_n": 78
+    }
+  ],
+  "_n": 55,
+  "_c": 78
+}

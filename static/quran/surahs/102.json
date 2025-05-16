@@ -1,0 +1,50 @@
+{
+  "ar": "التكاثر",
+  "en": "Competition",
+  "_a": "At-Takaathur",
+  "_l": "Meccan",
+  "_v": [
+    {
+      "ar": "أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+      "en": "Rivalry [and vainglory] distracted you",
+      "_n": 1
+    },
+    {
+      "ar": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+      "en": "until you visited [even] the graves.",
+      "_n": 2
+    },
+    {
+      "ar": "كَلَّا سَوْفَ تَعْلَمُونَ",
+      "en": "No indeed, soon you will know!",
+      "_n": 3
+    },
+    {
+      "ar": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+      "en": "No indeed, soon you will know for yet another time!",
+      "_n": 4
+    },
+    {
+      "ar": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+      "en": "Indeed, were you to know with certain knowledge,",
+      "_n": 5
+    },
+    {
+      "ar": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+      "en": "you would have surely seen hell [in this very life].",
+      "_n": 6
+    },
+    {
+      "ar": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+      "en": "Afterward you will surely see it with the eye of certainty.",
+      "_n": 7
+    },
+    {
+      "ar": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+      "en": "Then, on that day, you will surely be questioned concerning the Blessing.",
+      "_n": 8
+    }
+  ],
+  "_n": 102,
+  "_c": 8
+}

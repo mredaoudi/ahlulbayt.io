@@ -1,0 +1,30 @@
+{
+  "ar": "الإخلاص",
+  "en": "Sincerity",
+  "_a": "Al-Ikhlaas",
+  "_l": "Meccan",
+  "_v": [
+    {
+      "ar": "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+      "en": "Say, ‘He is Allah, the One.",
+      "_n": 1
+    },
+    {
+      "ar": "ٱللَّهُ ٱلصَّمَدُ",
+      "en": "Allah is the All-embracing.",
+      "_n": 2
+    },
+    {
+      "ar": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "en": "He neither begat, nor was begotten,",
+      "_n": 3
+    },
+    {
+      "ar": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+      "en": "nor has He any equal.’",
+      "_n": 4
+    }
+  ],
+  "_n": 112,
+  "_c": 4
+}

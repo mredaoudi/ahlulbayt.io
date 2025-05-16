@@ -1,0 +1,50 @@
+{
+  "ar": "الشرح",
+  "en": "The Consolation",
+  "_a": "Ash-Sharh",
+  "_l": "Meccan",
+  "_v": [
+    {
+      "ar": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "en": "Did We not open your breast for you",
+      "_n": 1
+    },
+    {
+      "ar": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "en": "and relieve you of your burden",
+      "_n": 2
+    },
+    {
+      "ar": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+      "en": "which [almost] broke your back?",
+      "_n": 3
+    },
+    {
+      "ar": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "en": "Did We not exalt your name?",
+      "_n": 4
+    },
+    {
+      "ar": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "en": "Indeed ease accompanies hardship.",
+      "_n": 5
+    },
+    {
+      "ar": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "en": "Indeed ease accompanies hardship.",
+      "_n": 6
+    },
+    {
+      "ar": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+      "en": "So when you are done, appoint,",
+      "_n": 7
+    },
+    {
+      "ar": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+      "en": "and supplicate your Lord.",
+      "_n": 8
+    }
+  ],
+  "_n": 94,
+  "_c": 8
+}

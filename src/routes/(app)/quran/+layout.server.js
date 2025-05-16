@@ -1,4 +1,7 @@
-export const load = async () => {
-  const res = await fetch(`http://localhost:8080/quran`);
-  return await res.json();
+export const load = async (event) => {
+  const res = await event.fetch('/quran/surahs.json');
+  const data = await res.json();
+  return {
+    surahs: data,
+  };
 }
