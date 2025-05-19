@@ -4,26 +4,7 @@
     
     const { open = false } = $props();
     const dispatch = createEventDispatcher();
-
-    function handleKey(event) {
-        if (event.key === "Escape") {
-            dispatch("close");
-        }
-    }
-
-    function handleClickOutside(event) {
-        const target = event.target;
-        if (target?.closest("#hf-container")) return;
-        dispatch("close");
-    }
-
-    function isValidString(str) {
-        return typeof str?.trim === 'function' && str.trim() !== '';
-    }
-
-    onMount(() => {
-        const textbox = document.getElementById('hf-textbox');
-        const arabKeys = {
+    const arabKeys = {
             "a": "ا",
             "b": "ب",
             "p": "پ",
@@ -66,9 +47,28 @@
             ",": "،",
             "?": "؟",
         };
+
+    function handleKey(event) {
+        if (event.key === "Escape") {
+            dispatch("close");
+        }
+    }
+
+    function handleClickOutside(event) {
+        const target = event.target;
+        if (target?.closest("#hf-container")) return;
+        dispatch("close");
+    }
+
+    function isValidString(str) {
+        return typeof str?.trim === 'function' && str.trim() !== '';
+    }
+
+    onMount(() => {
         let changes = [];
         let lastChange = 0;
         const TYPING_THRESHOLD = 1000;
+        const textbox = document.getElementById('hf-textbox');
 
         textbox.addEventListener('beforeinput', function (event) {
             const letter = event.data;
