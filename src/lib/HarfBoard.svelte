@@ -1,52 +1,52 @@
 <script>
-    import { onMount, onDestroy } from "svelte";
-    import { createEventDispatcher } from "svelte";
+    import { onMount, createEventDispatcher } from "svelte";
+    import { isValidString } from "$lib/utils";
     
     const { open = false } = $props();
     const dispatch = createEventDispatcher();
     const arabKeys = {
-            "a": "ا",
-            "b": "ب",
-            "p": "پ",
-            "t": "ت",
-            "c": "ث",
-            "j": "ج",
-            "H": "ح",
-            "R": "خ",
-            "d": "د",
-            "C": "ذ",
-            "r": "ر",
-            "z": "ز",
-            "s": "س",
-            "x": "ش",
-            "S": "ص",
-            "D": "ض",
-            "T": "ط",
-            "Z": "ظ",
-            "g": "ع",
-            "G": "غ",
-            "f": "ف",
-            "q": "ق",
-            "k": "ك",
-            "K": "گ",
-            "l": "ل",
-            "m": "م",
-            "n": "ن",
-            "h": "ه",
-            "w": "و",
-            "i": "ي",
-            "e": "ة",
-            "y": "ي",
-            "Y": "ى",
-            "A": "أ",
-            "o": "و",
-            "O": "ؤ",
-            "E": "إ",
-            "I": "ئ",
-            "u": "ء",
-            ",": "،",
-            "?": "؟",
-        };
+        "a": "ا",
+        "b": "ب",
+        "p": "پ",
+        "t": "ت",
+        "c": "ث",
+        "j": "ج",
+        "H": "ح",
+        "R": "خ",
+        "d": "د",
+        "C": "ذ",
+        "r": "ر",
+        "z": "ز",
+        "s": "س",
+        "x": "ش",
+        "S": "ص",
+        "D": "ض",
+        "T": "ط",
+        "Z": "ظ",
+        "g": "ع",
+        "G": "غ",
+        "f": "ف",
+        "q": "ق",
+        "k": "ك",
+        "K": "گ",
+        "l": "ل",
+        "m": "م",
+        "n": "ن",
+        "h": "ه",
+        "w": "و",
+        "i": "ي",
+        "e": "ة",
+        "y": "ي",
+        "Y": "ى",
+        "A": "أ",
+        "o": "و",
+        "O": "ؤ",
+        "E": "إ",
+        "I": "ئ",
+        "u": "ء",
+        ",": "،",
+        "?": "؟",
+    };
 
     function handleKey(event) {
         if (event.key === "Escape") {
@@ -58,10 +58,6 @@
         const target = event.target;
         if (target?.closest("#hf-container")) return;
         dispatch("close");
-    }
-
-    function isValidString(str) {
-        return typeof str?.trim === 'function' && str.trim() !== '';
     }
 
     onMount(() => {
@@ -106,7 +102,9 @@
             }
         });
         window.addEventListener("keydown", handleKey);
-        return () => window.removeEventListener("keydown", handleKey);
+        return () => {
+            window.removeEventListener("keydown", handleKey)
+        };
     });
 </script>
 

@@ -28,6 +28,10 @@ export const boldMatchedWord = (str, searchString) => {
     });
 };
 
+export const isValidString = (str) => {
+    return typeof str?.trim === 'function' && str.trim() !== '';
+}
+
 export const isArabic = (str) => {
     const arabicRegex = /[\u0600-\u06FF]/;
     return arabicRegex.test(str);
@@ -37,3 +41,13 @@ export const toArabicNumber = (num) => {
     const arabicNumbers = ['٠', '١', '٢', '٣', '٤', '٥', '٦', '٧', '٨', '٩'];
     return num.toString().split('').map(digit => arabicNumbers[digit]).join('');
 }
+
+export const getRandomNumberInRange = async (min, max) => {
+    const response = await fetch('https://beacon.nist.gov/beacon/2.0/pulse/last');
+    const data = await response.json();
+    const hexStr = data.pulse.outputValue;
+    const bigInt = BigInt('0x' + hexStr);
+    const rangeSize = BigInt(max - min + 1);
+    const randomInRange = (bigInt % rangeSize) + BigInt(min);
+    return Number(randomInRange);
+} 

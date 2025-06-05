@@ -1,8 +1,7 @@
 <script>
-    import { Shuffle } from "@lucide/svelte";
-    import { Search } from "@lucide/svelte";
-    import { includesCaseInsensitive, isArabic } from "$lib/utils.js";
     import { goto } from "$app/navigation";
+    import { Search, Shuffle } from "@lucide/svelte";
+    import { includesCaseInsensitive, isArabic, getRandomNumberInRange } from "$lib/utils.js";
 
     let { data } = $props();
     let searchTextState = $state({value: ""});
@@ -19,24 +18,29 @@
         return filteredResults;
     });
 
-    function gotoRandomVerse() {
-        const randomSurahIndex = Math.floor(Math.random() * data.surahs.length);
-        const totalVerses = data.surahs[randomSurahIndex]._c;
-        const randomVerse = Math.floor(Math.random() * totalVerses) + 1;
-        goto(`/quran/${randomSurahIndex + 1}#v${randomVerse}`);
+    async function gotoRandomVerse() {
+        const randomSurahIndex = await getRandomNumberInRange(1, 114);
+        const totalVerses = data.surahs[randomSurahIndex - 1]._c;
+        const randomVerse = await getRandomNumberInRange(1, totalVerses);
+        goto(`/quran/${randomSurahIndex}#e${randomVerse}`);
     }
 </script>
 
+<svelte:head>
+    <title>Qur'an - Ahlulbayt.io</title> 
+</svelte:head>
+
 <div class="flex flex-col items-center gap-6">
-    <div class="w-full flex flex-row justify-between items-center">
+    <div class="w-full flex justify-between items-center gap-1">
         <div class="relative flex items-end">
             <input
+                id="search-input"
                 type="text"
                 placeholder="Search surah"
                 dir={isArabic(searchTextState.value) ? 'rtl' : 'ltr'}
                 style:font-family={isArabic(searchTextState.value) ? "'Scheherazade New'" : 'inherit'}
                 style:text-align={isArabic(searchTextState.value) ? 'right' : 'left'}
-                class="py-2 pl-10 rounded-md border focus:outline-none focus:ring-1 border-slate-300 focus:ring-slate-500 focus:border-transparent"
+                class="py-2 pl-10 rounded-md border w-full focus:outline-none  focus:ring-1 border-slate-300 focus:ring-slate-500 focus:border-transparent"
                 bind:value={searchTextState.value}
             />
             <Search
@@ -49,18 +53,18 @@
             {/if}
         </div>
         <button
-            onclick={() => gotoRandomVerse()}
+            onclick={async () => await gotoRandomVerse()}
             class="flex gap-2 p-2 border rounded-md bg-white border-slate-300 text-slate-500 hover:border-slate-700 hover:text-slate-700"
         >
             <Shuffle class="w-5" />
-            Go to random verse
+            <span class="hidden sm:inline">Go to random verse</span>
         </button>
-        
     </div>
-    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 items-center justify-center gap-2 w-full">
+    <div class="nav-grid grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 items-center justify-center gap-2 w-full">
         {#each filteredSurahs as ch}
             <a
-                class="p-5 border rounded-md md:text-sm flex flex-col justify-between h-full gap-3 border-slate-300 bg-white hover:border-slate-700 group"
+                id="e{ch._n}"
+                class="nav-cell p-5 border rounded-md md:text-sm flex flex-col justify-between h-full gap-3 border-slate-300 bg-white hover:border-slate-700 group"
                 href={`/quran/${ch._n}`}
             >
                 <div
@@ -68,14 +72,8 @@
                 >
                     {ch._n}
                 </div>
-                <div
-                    class="w-full text-center text-base font-medium text-slate-800"
-                >
-                    {ch.en} -
-                    <span style="font-family: 'Scheherazade New';"
-                        >{ch.ar}</span
-                    >
-                </div>
+                <div class="w-full text-center text-base font-medium text-slate-800">{ch.en}</div>
+                <div class="w-full text-center font-medium text-slate-800" style="font-family: 'Scheherazade New';">{ch.ar}</div>
                 <div class="flex w-full justify-center">
                     <span>{ch._a}</span>
                 </div>
