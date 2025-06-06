@@ -1,7 +1,7 @@
 <script>
     import "../app.css";
-    import { goto } from "$app/navigation";
     import { onMount } from "svelte";
+    import { goto } from "$app/navigation";
 
     let clicks = $state(0);
 

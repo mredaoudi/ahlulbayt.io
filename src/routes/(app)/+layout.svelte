@@ -2,13 +2,11 @@
     import { page } from "$app/stores";
     import { goto } from "$app/navigation";
     import { tick, onMount } from "svelte";
-    import HarfBoard from "$lib/HarfBoard.svelte";
     import { Keyboard, LogOut, ArrowUpToLine } from "@lucide/svelte";
 
     let containerEl;
     let { children } = $props();
     let showButton = $state(false);
-    let harfBoardOpen = $state(false);
     let buttonWrapperLeft = $state("0px");
 
     function updateButtonPosition() {
@@ -32,12 +30,6 @@
         updateButtonPosition();
     }
 
-    function closeHarfBoard() {
-        const textbox = document.getElementById('hf-textbox');
-        textbox.value = "";
-        harfBoardOpen = false;
-    }
-
     function scrollToTop() {
         window.scrollTo({ top: 0, behavior: "smooth" });
     }
@@ -55,16 +47,12 @@
         const isTyping = tag === 'INPUT' || tag === 'TEXTAREA' || target?.isContentEditable;
 
         if (!isTyping) {
-            if (event.key === 'h') {
-                harfBoardOpen = true;
-                const textbox = document.getElementById('hf-textbox');
-                await tick();
-                event.preventDefault();
-                textbox.focus();
-            } else if (event.key === 'q') {
+            if (event.key === 'q') {
                 goto('/quran');
             } else if (event.key === 'h') {
                 goto('/hadith');
+            } else if (event.key === 't') {
+                scrollToTop();
             } else if (event.key === 's') {
                 const input = document.getElementById('search-input');
                 if (input) {
@@ -84,6 +72,7 @@
         window.addEventListener("keydown", handleGlobalKey);
         window.addEventListener("scroll", handleScrollOrResize);
         window.addEventListener("resize", handleScrollOrResize);
+
         return () => {
             window.removeEventListener("keydown", handleGlobalKey);
             window.removeEventListener("scroll", handleScrollOrResize);
@@ -152,5 +141,3 @@
         {/if}
     </div>
 </div>
-
-<HarfBoard bind:open={harfBoardOpen} on:close={() => closeHarfBoard()} />

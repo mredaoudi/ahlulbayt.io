@@ -44,7 +44,7 @@
     <title>Qur'an {surah?._n} - Ahlulbayt.io</title> 
 </svelte:head>
 
-<div class="relative">
+<div class="relative mb-6 md:mb-0">
     <input
         id="search-input"
         type="text"
@@ -89,7 +89,7 @@
     class="mx-auto flex flex-col mb-8 bg-zinc-50 border rounded-md shadow-slate-200 border-slate-300 relative"
 >
     <div
-        class="absolute -top-6 z-50 left-1/2 transform -translate-x-1/2 border px-10 py-2 rounded text-lg bg-zinc-50 text-slate-700 {isTawbah && searchTextState.value === '' ? 'hidden' : ''}"
+        class="hidden sm:block absolute -top-6 z-50 left-1/2 transform -translate-x-1/2 border px-10 py-2 rounded text-lg bg-zinc-50 text-slate-700 {isTawbah && searchTextState.value === '' ? 'hidden' : ''}"
         style={searchTextState.value === "" ? "font-family: 'Amiri'" : ""}
     >
         {searchTextState.value === ""
