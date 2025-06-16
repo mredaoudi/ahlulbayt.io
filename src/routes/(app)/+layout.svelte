@@ -117,6 +117,12 @@
                     : 'text-slate-500'}">Fiqh</a
             >
             <a
+                href="/notes"
+                class="hover:underline {$page.url.pathname.startsWith(`/notes`)
+                    ? 'text-slate-900'
+                    : 'text-slate-500'}">Notes</a
+            >
+            <a
                 href="/tools"
                 class="hover:underline {$page.url.pathname.startsWith(`/tools`)
                     ? 'text-slate-900'

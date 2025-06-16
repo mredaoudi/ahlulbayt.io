@@ -86,10 +86,10 @@
     {/if}
 </div>
 <div
-    class="mx-auto flex flex-col mb-8 bg-zinc-50 border rounded-md shadow-slate-200 border-slate-300 relative"
+    class="mx-auto flex flex-col mb-8 bg-stone-50 border rounded-md shadow-slate-200 border-slate-300 relative"
 >
     <div
-        class="hidden sm:block absolute -top-6 z-50 left-1/2 transform -translate-x-1/2 border px-10 py-2 rounded text-lg bg-zinc-50 text-slate-700 {isTawbah && searchTextState.value === '' ? 'hidden' : ''}"
+        class="hidden sm:block absolute -top-6 z-50 left-1/2 transform -translate-x-1/2 border px-10 py-2 rounded text-lg bg-stone-50 text-slate-700 {isTawbah && searchTextState.value === '' ? 'hidden' : ''}"
         style={searchTextState.value === "" ? "font-family: 'Amiri'" : ""}
     >
         {searchTextState.value === ""
@@ -117,7 +117,7 @@
         >
             {@html verse.ar} &#x06DD;{toArabicNumber(verse._n)}
         </div>
-        <div class="font-light text-slate-600">{@html verse.en}</div>
+        <div class="font-light text-lg text-slate-600" style="font-family: 'Crimson Text';">{@html verse.en}</div>
     </div>
     {/each}
 </div>

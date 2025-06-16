@@ -5,14 +5,11 @@
 ## Hadith
 
 - [DONE] Script that gets data from thaqalayn-api and convert them to a better structure.
-- Frontend: same layout as Quran
+- [DONE] Frontend: same layout as Quran
 
-## Accounts
-
-- Setup remote sqlite
-- Create tables
-- Connect orm to database
-- Create pages in frontend
+## Notes
+- [DONE] Install showdown + server side rendering to html
+- [DONE] Frontend layout notes
 
 ## Fiqh
 

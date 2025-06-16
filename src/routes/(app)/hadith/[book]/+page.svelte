@@ -59,7 +59,7 @@
                 href={`/hadith/${page.params.book}/${index+1}`}
             >
                 <div
-                    class="w-full text-center text-base font-medium text-slate-800"
+                    class="w-full text-center text-base font-medium text-slate-800 overflow-y-scroll"
                 >
                     {ch.category}
                 </div>
