@@ -4,13 +4,13 @@
     import { Search, Shuffle } from "@lucide/svelte";
     import { includesCaseInsensitive, isArabic } from "$lib/utils.js";
 
-    let { data } = $props();
+    const { data } = $props();
     let searchTextState = $state({value: ""});
     let filteredChapters = $derived.by(() => {
-        let filteredResults = Object.values(data.chapters).map(cat => {
+        let filteredResults = Object.values(data.category.chapters).map(chap => {
             return {
-                category: cat.category,
-                chapterCount: cat.category.length
+                chapter: chap.chapter,
+                hadithCount: chap.hadiths.length
             }
         });
         if(searchTextState.value !== ""){
@@ -56,7 +56,7 @@
         {#each filteredChapters as ch, index}
             <a
                 class="p-5 border rounded-md md:text-sm flex flex-col justify-center h-36 gap-3 border-slate-300 bg-white hover:border-slate-700 group"
-                href={`/hadith/${page.params.book}/${page.params.category}/${index}`}
+                href={`/hadith/${page.params.book}/${page.params.category}/${index+1}`}
             >
                 <div
                     class="w-full text-center text-base font-medium text-slate-800"
@@ -64,7 +64,7 @@
                     {ch.chapter}
                 </div>
                 <div class="flex w-full justify-center text-slate-500 text-xs opacity-70 group-hover:opacity-100">
-                    <span>{ch.hadithCount} chapters</span>
+                    <span>{ch.hadithCount} hadiths</span>
                 </div>
             </a>
         {/each}

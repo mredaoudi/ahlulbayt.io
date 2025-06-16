@@ -56,7 +56,7 @@
         {#each filteredCategories as ch, index}
             <a
                 class="p-5 border rounded-md md:text-sm flex flex-col justify-center h-36 gap-3 border-slate-300 bg-white hover:border-slate-700 group"
-                href={`/hadith/${page.params.book}/${index}`}
+                href={`/hadith/${page.params.book}/${index+1}`}
             >
                 <div
                     class="w-full text-center text-base font-medium text-slate-800"

@@ -55,7 +55,6 @@
     <div class="nav-grid grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 items-center justify-center gap-2 w-full">
         {#each filteredBooks as ch, index}
             <a
-                id="e{index+1}"
                 class="nav-cell p-5 border rounded-md md:text-sm flex flex-col justify-center h-full gap-3 border-slate-300 bg-white hover:border-slate-700 group"
                 href={`/hadith/${index+1}`}
             >
