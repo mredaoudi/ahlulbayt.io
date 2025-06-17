@@ -1,9 +1,9 @@
 import showdown from 'showdown';
 
-export const load = async({params, fetch}) => {
+export const load = async({params, parent}) => {
   let converter = new showdown.Converter();
-  const response = await fetch(`/static/notes/${params.note}.md`);
+  const { notes } = await parent();
   return {
-    note: converter.makeHtml(await response.text())
+    note: converter.makeHtml(notes[params.note].content)
   }
 }
