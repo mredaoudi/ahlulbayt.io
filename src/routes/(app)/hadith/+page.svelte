@@ -55,21 +55,20 @@
     <div class="nav-grid grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 items-center justify-center gap-2 w-full">
         {#each filteredBooks as ch, index}
             <a
-                class="nav-cell p-5 border rounded-md md:text-sm flex flex-col justify-center h-full gap-3 border-slate-300 bg-white hover:border-slate-700 group"
+                class="nav-cell p-5 border rounded-md md:text-sm flex flex-col justify-between h-full gap-3 border-slate-300 bg-white hover:border-slate-700 group"
                 href={`/hadith/${index+1}`}
             >
-                <img src="{ch.bookCover}" alt="{ch.bookId}" class="w-24 rounded mx-auto shadow-md shadow-slate-300 group-hover:shadow-lg"/>
                 <div
                     class="w-full text-center text-base font-medium text-slate-800"
                 >
                     {ch.BookName}
                 </div>
-                <div class="flex w-full justify-center text-center">
+                <div class="flex w-full justify-center text-xs text-center">
                     <span>{ch.author}</span>
                 </div>
                 <div class="flex w-full justify-between text-slate-500 text-xs opacity-70 group-hover:opacity-100">
-                    <span>{ch.englishName}</span>
-                    <span>{ch.idRangeMax} hadiths</span>
+                    <span class="text-left">{ch.englishName}</span>
+                    <span class="text-right">{ch.idRangeMax} hadiths</span>
                 </div>
             </a>
         {/each}
