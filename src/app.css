@@ -37,4 +37,13 @@
   pre {
     @apply bg-gray-900 text-white p-4 rounded my-4 overflow-x-auto;
   }
+  thead {
+    @apply bg-gray-50 uppercase
+  }
+  tr {
+    @apply border-b border-gray-200;
+  }
+  td {
+    @apply pr-4 py-1;
+  }
 }
