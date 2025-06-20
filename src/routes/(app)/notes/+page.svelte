@@ -3,14 +3,26 @@
 </script>
 
 <svelte:head>
-    <title>Notes - Ahlulbayt.io</title> 
+    <title>Notes - Ahlulbayt.io</title>
 </svelte:head>
 
-<div class="w-1/2 mx-auto">
+<div class="mx-auto">
     <h2 class="text-center">Notes</h2>
-    <ul>
-    {#each Object.entries(data.notes) as [key, item]}
-        <li><a class="text-slate-600 hover:underline hover:text-sky-500" href="/notes/{key}">{item.title}</a></li>
-    {/each}
-    </ul>
+
+    <div
+        class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 md:flex-row items-center justify-center gap-2 w-full"
+    >
+        {#each Object.entries(data.notes) as [key, item]}
+            <a
+                class="p-5 border rounded-md md:text-sm flex flex-col justify-between h-full gap-3 border-slate-300 bg-white hover:border-slate-700 group"
+                href={`/notes/${key}`}
+            >
+                <div
+                    class="w-full text-center text-base font-medium text-slate-800"
+                >
+                    {item.title}
+                </div>
+            </a>
+        {/each}
+    </div>
 </div>

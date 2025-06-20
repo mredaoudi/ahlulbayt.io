@@ -81,6 +81,10 @@
     });
 </script>
 
+<svelte:head>
+    <title>Tools - Ahlulbayt.io</title> 
+</svelte:head>
+
 <div
     id="container"
     class="lg:w-3/4 mx-auto mt-8 px-3 flex flex-col items-center gap-4"
@@ -99,33 +103,33 @@
             class="w-full flex flex-row items-center justify-center gap-6"
         >
             <a
-                href="/quran"
-                class="hover:underline {$page.url.pathname.startsWith(`/quran`)
-                    ? 'text-slate-900'
-                    : 'text-slate-500'}">Qur'an</a
+                href="/fiqh"
+                class="hover:underline {$page.url.pathname.startsWith(`/fiqh`)
+                    ? 'text-slate-900 underline'
+                    : 'text-slate-500'}">Fiqh</a
             >
             <a
                 href="/hadith"
                 class="hover:underline {$page.url.pathname.startsWith(`/hadith`)
-                    ? 'text-slate-900'
+                    ? 'text-slate-900 underline'
                     : 'text-slate-500'}">Hadith</a
             >
             <a
-                href="/fiqh"
-                class="hover:underline {$page.url.pathname.startsWith(`/fiqh`)
-                    ? 'text-slate-900'
-                    : 'text-slate-500'}">Fiqh</a
+                href="/quran"
+                class="hover:underline {$page.url.pathname.startsWith(`/quran`)
+                    ? 'text-slate-900 underline'
+                    : 'text-slate-500'}">Qur'an</a
             >
             <a
                 href="/notes"
                 class="hover:underline {$page.url.pathname.startsWith(`/notes`)
-                    ? 'text-slate-900'
+                    ? 'text-slate-900 underline'
                     : 'text-slate-500'}">Notes</a
             >
             <a
                 href="/tools"
                 class="hover:underline {$page.url.pathname.startsWith(`/tools`)
-                    ? 'text-slate-900'
+                    ? 'text-slate-900 underline'
                     : 'text-slate-500'}">Tools</a
             >
         </nav>

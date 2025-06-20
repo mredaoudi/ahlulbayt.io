@@ -60,11 +60,11 @@
             <span class="hidden sm:inline">Go to random verse</span>
         </button>
     </div>
-    <div class="nav-grid grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 items-center justify-center gap-2 w-full">
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 items-center justify-center gap-2 w-full">
         {#each filteredSurahs as ch}
             <a
                 id="e{ch._n}"
-                class="nav-cell p-5 border rounded-md md:text-sm flex flex-col justify-between h-full gap-3 border-slate-300 bg-white hover:border-slate-700 group"
+                class="p-5 border rounded-md md:text-sm flex flex-col justify-between h-full gap-3 border-slate-300 bg-white hover:border-slate-700 group"
                 href={`/quran/${ch._n}`}
             >
                 <div

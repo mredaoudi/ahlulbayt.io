@@ -26,6 +26,10 @@
     
 </script>
 
+<svelte:head>
+    <title>Hadith - Ahlulbayt.io</title> 
+</svelte:head>
+
 <div class="relative mb-6 md:mb-0">
     <input
         id="search-input"

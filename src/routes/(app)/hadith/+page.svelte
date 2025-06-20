@@ -46,16 +46,16 @@
         </div>
         <button
             onclick={() => gotoRandomVerse()}
-            class="flex gap-2 p-2 border rounded-md bg-white border-slate-300 text-slate-500 hover:border-slate-700 hover:text-slate-700"
+            class="hidden flex gap-2 p-2 border rounded-md bg-white border-slate-300 text-slate-500 hover:border-slate-700 hover:text-slate-700"
         >
             <Shuffle class="w-5" />
             <span class="hidden sm:inline">Go to random hadith</span>
         </button>
     </div>
-    <div class="nav-grid grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 items-center justify-center gap-2 w-full">
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 items-center justify-center gap-2 w-full">
         {#each filteredBooks as ch, index}
             <a
-                class="nav-cell p-5 border rounded-md md:text-sm flex flex-col justify-between h-full gap-3 border-slate-300 bg-white hover:border-slate-700 group"
+                class="p-5 border rounded-md md:text-sm flex flex-col justify-between h-full gap-3 border-slate-300 bg-white hover:border-slate-700 group"
                 href={`/hadith/${index+1}`}
             >
                 <div
@@ -66,8 +66,7 @@
                 <div class="flex w-full justify-center text-xs text-center">
                     <span>{ch.author}</span>
                 </div>
-                <div class="flex w-full justify-between text-slate-500 text-xs opacity-70 group-hover:opacity-100">
-                    <span class="text-left">{ch.englishName}</span>
+                <div class="flex w-full justify-center text-slate-500 text-xs opacity-70 group-hover:opacity-100">
                     <span class="text-right">{ch.idRangeMax} hadiths</span>
                 </div>
             </a>
