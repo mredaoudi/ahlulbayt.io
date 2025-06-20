@@ -18,10 +18,8 @@
 - https://www.leader.ir/en/book/206/The-Rules-on-Prayer-Fasting
 - Convert them to JSON with markdown to render them as pages in the app
 
-# Tools
+# Tools & Notes
 
-- Islamic calendar
+- [DONE] Halal/haram foods
 - Prayer timetable
-- Halal/haram foods
-- Mosque finder
-- Library finder
+- Other resources
